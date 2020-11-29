@@ -1,0 +1,14 @@
+
+.data
+;      MESSAGE DB 'WELCOME$'
+
+.CODE
+     MOV DX, @DATA
+     MOV DS, AX
+     LEA DX, MESSAGE
+     MOV AH, 09H
+     INT 21H
+
+  MOV AH, 4CH
+  INT 21H
+END

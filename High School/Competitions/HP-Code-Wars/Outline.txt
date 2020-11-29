@@ -1,0 +1,393 @@
+1999
+Prob 1: Printing
+Prob 2: String Replacement
+Prob 3: Palindrome
+Prob 4: Primes
+Prob 5: Random Numbers
+Prob 6: Finding Area
+Prob 7: Map Bank Accounts
+Prob 8: Route Finding
+Prob 9: Stacks 
+Prob 10: Word Sorter
+Prob 11: Queue
+Prob 12: Magic Square (DOESNT WORK)
+Prob 13: BigInteger Math (DOESN't Work)
+Prob 14: Equasion Solving
+Prob 15: Path Finding
+Prob 16: Timing (NOT POSSIBLE)
+Prob 17: Geography Math (NO FILE)
+Prob 18: Music Playing
+
+2000
+Prob 1: Printing
+Prob 2: Area Math
+Prob 3: File Combiner
+Prob 4: Frequency Histogram
+Prob 5: Printing Format
+Prob 6: Easy Search (No Algorithm)
+Prob 7: Pig Latin
+Prob 8: Interest Math (NOT DONE)
+Prob 9: Grammer Checker (DOnt have file)
+Prob 10: Stack Calculator
+Prob 11: Simple AI/Object Linking (DOESN'T WORK)
+Prob 12: 2d Array Pattern Searching
+Prob 13: Pathfinding with Nodes
+Prob 14: 4 Word CROSSWORD (NOT DONE)
+Prob 15: Chess (NOT DONE)
+
+2001
+Prob 1: Printing
+Prob 2: String Replacement
+Prob 3: Printing Calendar
+Prob 4: Anagram
+Prob 5: String Formating
+Prob 6: Physics Math
+Prob 7: Easy Search (No Algorithm)
+Prob 8: Encryption Algorithm (NOT DONE)
+Prob 9: Combinatorics (NO File)
+Prob 10: Grid Moving
+Prob 11: Task Time Management (Easy)
+Prob 12: Math
+Prob 13: Shortest Substring (This is insanity)
+Prob 14: Optimum Outcome (Change Name) (WANT TO DO)
+Prob 15: Magic Star Numbers (Not doing)
+
+2002
+Prob 1: Printing
+Prob 2: Math
+Prob 3: Reversing String
+Prob 4: Guessing Hangman
+Prob 5: Word Counter
+Prob 6: Order Processor (Easy)
+Prob 7: String Matching
+Prob 8: Math (Getting Average)
+Prob 9: Histogram
+Prob 10: Math (Distance Calculator)
+Prob 11: Equasion Solver (Words)
+Prob 12: Event Processing
+Prob 13: Order Processor (NOT DONE)
+Prob 14: Map Navigation (WiFi Area)
+Prob 15: Math (Advanced Moving Math)
+
+2003
+Prob 1: Printing
+Prob 2: Interest Math
+Prob 3: Calendar (Not working)
+Prob 4: String Replacement
+Prob 5: Histogram
+Prob 6: Checksum
+Prob 7: Music Scales
+Prob 8: Order Processor
+Prob 9: Bowling Score Calculator
+Prob 10: Pathfinding (NEED TO DO)
+Prob 11: Calendar (NOT DOING)
+Prob 12: RPN Calculator
+Prob 13: Magic Square
+Prob 14: Operation Processor
+Prob 15: Crossword (Completer)
+
+2004
+Prob 1: Printing
+Prob 2: Leap Year
+Prob 3: Math
+Prob 4: Time (Clock Format)
+Prob 5: Order Processing
+Prob 6: Math (Median)
+Prob 7: Poker (NEED TO DO)
+Prob 8: String Search
+Prob 9: Input Formatting
+Prob 10: Combinatorics (NOT ATTEMPTED)
+Prob 11: Order Processing
+Prob 12: Moving Rover
+Prob 13: Grid Word Search
+Prob 14: Bracket Processing (NEED TO FIX)
+Prob 15: Process Chess Game (NEED TO DO)
+
+2005
+Prob 1: Printing
+Prob 2: Temperature Converter
+Prob 3: Math (Adding Factors)
+Prob 4: Roman Numerals
+Prob 5: Keypad Processor
+Prob 6: String ReWriting (Don't Know how it works)
+Prob 7: Math (OFF A LITTLE NOT DONE NEED TO FIX)
+Prob 8: Queue (Elevator)
+Prob 9: String ReWriting Part 2 (NOT Attempting)
+Prob 10: Grid Movements (PacMan)
+Prob 11: Poker (NEED TO DO)
+Prob 12: Equasion Calculator
+
+2006
+Prob 0: Printing
+Prob 1: Printing
+Prob 2: Math
+Prob 3: Math (Area)
+Prob 4: Probability (Benford's Law)
+Prob 5: Application Processor
+Prob 6: Roman Numeral Calculator
+Prob 7: Sudoku Checker
+Prob 8: Sets
+Prob 9: Random Sort
+Prob 10: Scheduling (DOESNT WORK)
+Prob 11: Permutation (Different Ways for Change)
+Prob 12: Mayan Calendar
+Prob 13: Puzzle Building (Tumbled Tiles) (NOT ATTEMPTED
+
+2007
+Prob 1: Math
+Prob 2: Printing
+Prob 3: Factorial/Combinations
+Prob 4: Strings
+Prob 5: Math
+Prob 6: Primes
+Prob 7: Math
+Prob 8: Printing Grid (Number Spiral)
+Prob 9: Music (NEED TO DO)
+Prob 10: New Math (Hard) (NOT DOING)
+Prob 11: String Matching (LED)
+Prob 12: List
+Prob 13: Grid Reading (Numbers)
+Prob 14: Chess (HAVEN'T DONE)
+
+2008
+Prob 1: Palindrome
+Prob 2: Math
+Prob 3: Printing
+Prob 4: Strings
+Prob 5: Histogram
+Prob 6: Strings
+Prob 7: Strings
+Prob 8: String Matching
+Prob 9: Grid Reading
+Prob 10: Math (MAY WANT TO DO)
+Prob 11: Grid Moving (FloodFill)
+Prob 12: Grid Moving (FloodFill)
+Prob 13: Math (Probability)
+Prob 14: Object Linking (NEED TO DO)
+Prob 15: LOOK AT AGAIN TO NAME THIS
+Prob 16: Visual Graphing
+
+2009
+Prob 1: Math
+Prob 2: Math
+Prob 3: Printing
+Prob 4: Math (Easy Calculator)
+Prob 5: Calendar (Doesn't Work)
+Prob 6: Math
+Prob 7: Math (Ponzi Calculator)
+Prob 8: Classes
+Prob 9: Number Palindromes
+Prob 10: Tree String Matching (Huffman)	
+Prob 11: Math
+Prob 12: Histogram
+Prob 13: Networking (Doesn't have the routing table file)
+Prob 14: Anagram
+Prob 15: Strings
+Prob 16: Linked Objects (May Try) (NOT DONE)
+Prob 17: Binary and Boolean Operators (NOT TRYING)
+Prob 18: Pathfinder (NEED TO TRY)
+Prob 19: String Parsing (HARD WANT TO TRY)
+Prob 20: Three-Letter Crossword
+
+2010
+Prob 1: Math
+Prob 2: Math
+Prob 3: Math
+Prob 4: Math
+Prob 5: Greek Numeral
+Prob 6: Histogram
+Prob 7: Grid Processing (Minesweeper)
+Prob 8: Object Linking
+Prob 9: Grid (Scrabble)
+Prob 10: List
+Prob 11: Math
+Prob 12: String Replacement
+Prob 13: Combinatorics (Tetris)
+Prob 14: Graph and Pathfinding
+Prob 15: Everything
+Prob 16: Grid (Ken-igma) (Not Doing)
+
+2011
+Prob 1: Printing
+Prob 2: Math
+Prob 3: Printing
+Prob 4: Palindrome
+Prob 5: Printing
+Prob 6: Grid (NOT DOING)
+Prob 7: Sort
+Prob 8: Grid (NOT DOING)
+Prob 9: Strings
+Prob 10: Math (Fractions) NOT DOING
+Prob 11: IDK
+Prob 12: Math
+Prob 13: IDK (NOT DOING)
+Prob 14: String Replacement
+Prob 15: String Replacement (List)
+Prob 16: Math
+Prob 17: Node Graph Maze
+Prob 18: Calculator (Game) (NOT DOING)
+
+2012
+Prob 1: Printing
+Prob 2: Math
+Prob 3: Grid (NOT DONE)
+Prob 4: String Replacement
+Prob 5: Optimize packaging (Peppers) (NOT DONE)
+Prob 6: Math (Heronian Formula)
+Prob 7: Histogram (Ascii Skyline) (NOT DONE)
+Prob 8: Histogram (Letters)
+Prob 9: String Cipher
+Prob 10: Card Set
+Prob 11: Grid
+Prob 12: Math (NOT DOING)
+Prob 13: Math (NOT SURE)
+Prob 14: Strings (NOT DOING)
+Prob 15: Queue/Strings
+Prob 16: READING (NEED TO MODIFY CODE) I THINK PATH FINDING
+Prob 17: Pathfinding (NEED TO MODIFY CODE)
+Prob 18: Pathfinding (Portals) (NOT DOING)
+Prob 19: QR Code (NEED TO MODIFY)
+
+2013
+Prob 1: Printing
+Prob 2: Printing
+Prob 3: Math
+Prob 4: Math
+Prob 5: Tribonacci
+Prob 6: Math (Area)
+Prob 7: Math
+Prob 8: Strings
+Prob 9: String Counting
+Prob 10: Math
+Prob 11: String Replacement
+Prob 12: Palindrome (Morse Code)
+Prob 13: Grid Reading (Banner Reading) (NOT DOING)
+Prob 14: Math (NOT DONE)
+Prob 15: Stacking (NEED TO DO)
+Prob 16: Tree (NOT DONE)
+Prob 17: Strings
+Prob 18: String Search (NOT DONE)
+Prob 19: Grid (MAY DO) (NOT DONE)
+Prob 20: Grid Stacking (NOT DOING)
+Prob 21: Strings (LOOK AT) (MAY DO) (NOT DONE)
+
+2014
+Prob 1: Math
+Prob 2: Math
+Prob 3: Math
+Prob 4: Math
+Prob 5: Pangram
+Prob 6: Strings
+Prob 7: Greek Numerals (NOT DOING) (MAYBE)
+Prob 8: Strings
+Prob 9: Prime Math
+Prob 10: Strings (Cipher) (NOT DOING)
+Prob 11: Math (Chinese Remainder Theorm)
+Prob 12: Grid Strings Reading (NOT DOING)
+Prob 13: Combinatorics (NEED TO ATTEMPT) (NOT DONE)
+Prob 14: GO OVER (NEED TO DO)
+Prob 15: Grid (Fruit Math) (NEED TO ATTEMPT)
+Prob 16: Grid String Search (NOT DONE)
+Prob 17: Tree (NOT DONE)
+Prob 18: Path Walking (NOT DOING)
+Prob 19: Strings/Grid Creation (NOT DOING)
+Prob 20: Grid Math (NOT DONE)
+Prob 21: Floor Solution
+
+2015
+Prob 1: Printing
+Prob 2: Math
+Prob 3: Printing
+Prob 4: Math
+Prob 5: Brute Force
+Prob 6: Math
+Prob 7: Math (Kepler's Law)
+Prob 8: List
+Prob 9: Frequency Counter (Numbers)
+Prob 10: Brute Force
+Prob 11: Printing
+Prob 12: Math
+Prob 13: String Counting
+Prob 14: Shape Fitting (NOT DOING)
+Prob 15: Acronym
+Prob 16: Graphing/Pathfinding
+Prob 17: Grid Printing
+Prob 18: Maze/Pathfinding
+Prob 19: Grid matching (Battleship)
+Prob 20: String Manipulation (NOT DOING)
+
+2016
+Prob 1: Printing
+Prob 2: Printing
+Prob 3: Printing
+Prob 4: Math
+Prob 5: Strings
+Prob 6: Math 
+Prob 7: Strings
+Prob 8: Printing
+Prob 9: Math
+Prob 10: Grid (Tic-Tac-Toe)
+Prob 11: Math
+Prob 12: Grid (Spiral Reading)
+Prob 13: Math
+Prob 14: Strings (Cipher) (NOT DOING)
+Prob 15: 3D Grid (Cube Rotation)
+Prob 16: Math (NOT DOING)
+Prob 17: Grid (Might Do) (NOT DONE)
+Prob 18: Hexagon Path Finding (NOT DONE)
+Prob 19: Object Linking (NOT DONE)
+Prob 20: Enigma Machine
+Prob 21: Math (Astro Navigation)
+
+2017
+Prob 0: Printing
+Prob 1: Printing
+Prob 2: Printing
+Prob 3: Math
+Prob 4: Math
+Prob 5: Math
+Prob 6: Math
+Prob 7: Math
+Prob 8: String Counting (Not DOING)
+Prob 9: Histogram (NOT DONE)
+Prob 10: Palindrome
+Prob 11: Strings
+Prob 12: Math
+Prob 13: Grid Printing (NOT DOING)
+Prob 14: Pathfinder (NOT DONE)
+Prob 15: Probabilities
+Prob 16: Combinatorics
+Prob 17: Roman Numerals (NOT DOING)
+Prob 18: Game Process Operations
+Prob 19: Math
+Prob 20: Pathfinding
+Prob 21: String Searching (NOT DONE)
+Prob 22: Grid Printing (NOT DOING)
+Prob 23: Multivariable Problem (NOT DOING)
+Prob 24: Hexagon Puzzle (NOT DONE)
+
+2018
+Prob 0: Printing
+Prob 1: Printing
+Prob 2: Math
+Prob 3: Prime
+Prob 4: Math
+Prob 5: Calendar (NOT DOING)
+Prob 6: Strings
+Prob 7: Math
+Prob 8: String Length
+Prob 9: String Counting
+Prob 10: Math
+Prob 11: List
+Prob 12: Anagram
+Prob 13: Grid (WIFI) (NOT DOING)
+Prob 14: Math (NOT DONE)
+Prob 15: Hexagon Word Search (NOT DONE)
+Prob 16: Math (NOT DOING)
+Prob 17: Process Operations (Queue)
+Prob 18: Word Matching (NOT DONE)
+Prob 19: PathMaking (Frog) (NOT DOING)
+Prob 20: Math (NOT DONE)
+Prob 21: Math (NOT DOING)
+Prob 22: Cominatorics (NOT DONE)
+Prob 23: Pathfinding (WILL ATTEMPT) (NOT DONE)

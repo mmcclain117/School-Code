@@ -1,0 +1,5 @@
+Took me about 15 minutes to code and five minutes to test in C.
+
+You might want to call out the order of suits and ranks that you want
+to report.  My first pass had a diferrent order in suits and since the
+double is only show in Aces, I'm not sure if you wanted Ace high or low.

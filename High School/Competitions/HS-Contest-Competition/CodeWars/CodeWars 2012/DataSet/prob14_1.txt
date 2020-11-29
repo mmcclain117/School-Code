@@ -1,0 +1,1 @@
+3 SET 2 2 ADD 2 * MUL 2 * ( SET Y ( ADD ( MUL A X X ) ( MUL B X ) C ) )

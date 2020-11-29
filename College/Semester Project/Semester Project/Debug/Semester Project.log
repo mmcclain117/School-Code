@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\maste\source\repos\semester project\semester project\main.cpp(1216): warning C4018: '<': signed/unsigned mismatch
+c:\users\maste\source\repos\semester project\semester project\main.cpp(1325): warning C4129: 'O': unrecognized character escape sequence
+  Semester Project.vcxproj -> C:\Users\maste\source\repos\Semester Project\Debug\Semester Project.exe

@@ -1,0 +1,11 @@
+Number of lights: 2
+Type: Point
+Position: 1.4295112781954888 -0.49956140350877198 1
+Direction: -1 -1 1
+Color: 1 1 1
+Intensity: 0.49999999999999956
+Type: Directional
+Position: 1 2 1
+Direction: 1.0792606516290728 -1.3105263157894738 1
+Color: 1 1 1
+Intensity: 0.80999999999999983

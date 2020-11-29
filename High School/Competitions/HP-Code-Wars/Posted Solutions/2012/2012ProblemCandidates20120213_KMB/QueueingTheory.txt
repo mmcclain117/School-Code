@@ -1,0 +1,4 @@
+Another 10 minute problem. Straightforward implementation doesn't need
+any knowledge of queuing theory.  One error in the description is that
+it doesn't start out stating that the array is filled with spaces,
+since it isn't clear that there are trailing or leading spaces in the input text.

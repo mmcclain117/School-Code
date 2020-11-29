@@ -1,0 +1,1 @@
+Guess you really are up for a challenge. Get the combined total cost of the two most expensive products and the two least expensive products at this endpoint, and there's your answer: http://www.codewithtarget.com/assets/data/the-scrambler.json

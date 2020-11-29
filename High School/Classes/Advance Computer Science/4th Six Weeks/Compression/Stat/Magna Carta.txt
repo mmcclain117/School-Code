@@ -1,0 +1,6 @@
+Compressed Size: 44213
+Original Size: 81155
+Compressed by : 369.0%
+Time: 30655
+Similarity: 5348
+Similarity Percentage: 100.0%

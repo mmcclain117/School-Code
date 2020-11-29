@@ -1,0 +1,6 @@
+this is file a
+file a line 2
+and anotehr line after
+this is merged
+with file prob03b
+and successfuul.

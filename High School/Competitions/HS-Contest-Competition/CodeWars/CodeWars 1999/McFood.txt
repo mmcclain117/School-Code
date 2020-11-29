@@ -1,0 +1,10 @@
+ITEM=Double Pounder;TIME=45 
+ITEM=Soda;TIME=20 
+ITEM=McChitterlings;TIME=71 
+ITEM=McPasta;TIME=53 
+ITEM=Big Mic;TIME=35 
+ITEM=French Fries;TIME=28 
+ITEM=Salad;TIME=17 
+ITEM=Nuglets;TIME=24 
+ITEM=Tea;TIME=20 
+ITEM=McPeanut Butter Sandwich;TIME=39

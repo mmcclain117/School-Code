@@ -1,0 +1,2 @@
+straightforward problem, took about 20 mintues to code and debug. column and row mapping makes it harder than it has to be since it comes as column row and I
+naturallly think of row and column, 

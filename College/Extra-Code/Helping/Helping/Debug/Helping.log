@@ -1,0 +1,4 @@
+﻿  Sudo.cpp
+c:\users\maste\source\repos\helping\helping\sudo.cpp(10): error C2087: 'a': missing subscript
+c:\users\maste\source\repos\helping\helping\sudo.cpp(28): error C2664: 'bool check(int [][])': cannot convert argument 1 from 'int [9][9]' to 'int [][]'
+  c:\users\maste\source\repos\helping\helping\sudo.cpp(28): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast

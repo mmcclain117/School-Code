@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\maste\source\repos\expession tree\main.cpp(110): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\maste\source\repos\expession tree\main.cpp(131): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Expession Tree.vcxproj -> C:\Users\maste\source\repos\Expession Tree\Debug\Expession Tree.exe

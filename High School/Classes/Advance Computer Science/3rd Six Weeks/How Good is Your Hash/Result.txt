@@ -1,0 +1,535 @@
+Test #1:
+Table size: 95000
+Load Factor I think: 0.1
+
+Linear
+Big Data Test:
+Insertion Time: 155704102
+Table Size: 50000
+Average Insertion time: 3114
+Collisions Number: 27917.0
+Probe Number: 190159
+Number of Collisions Vs Number of insertions: 0.55834 %
+
+Successful Test:
+Table Size: 1000
+Insertion Time: 2175481
+Average Insertion time: 2175
+Collision Number: 31798
+Probe Number: 6171
+Number of Collisions Vs Number of insertions: 31.798 %
+
+Unsuccessful Test:
+Table Size: 1000
+Insertion time: 2211007
+Average Insertion time: 2211
+Collision Number: 36003
+Probe Number: 12685
+Number of Collisions Vs Number of insertions: 36.003 %
+
+
+Quadratic
+Big Data Test:
+Insertion Time: 120163942
+Table Size: 50000
+Average Insertion time: 2403
+Collisions Number: 23413
+Probe Number: 144068
+Number of Collisions Vs Number of insertions: 0.46826 %
+
+Successful Test:
+Table Size: 1000
+Insertion Time: 2620030
+Average Insertion time: 2620
+Collision Number: 26308
+Probe Number: 4997
+Number of Collisions Vs Number of insertions: 26.308 %
+
+Unsuccessful Test:
+Table Size: 1000
+Insertion time: 2899920
+Average Insertion time: 2899
+Collision Number: 29335
+Probe Number: 10236
+Number of Collisions Vs Number of insertions: 29.335 %
+
+
+Random
+Big Data Test:
+Insertion Time: 57806243
+Table Size: 50000
+Average Insertion time: 1156
+Collisions Number: 11118
+Probe Number: 50000
+Number of Collisions Vs Number of insertions: 0.22236 %
+
+Successful Test:
+Table Size: 1000
+Insertion Time: 2228308
+Average Insertion time: 2228
+Collision Number: 12118
+Probe Number: 1000
+Number of Collisions Vs Number of insertions: 12.118 %
+
+Unsuccessful Test:
+Table Size: 1000
+Insertion time: 2199886
+Average Insertion time: 2199
+Collision Number: 13118
+Probe Number: 2000
+Number of Collisions Vs Number of insertions: 13.118 %
+
+
+LinkedList
+Big Data Test:
+Insertion Time: 94433525
+Table Size: 50000
+Average Insertion time: 1888
+Collisions Number: 11118
+Probe Number: 50000
+Number of Collisions Vs Number of insertions: -0.09883376161296699 %
+Average List Length: 50000.0
+
+Successful Test:
+Table Size: 1000
+Insertion Time: 757224777
+Collision Number: 18
+Number of Collisions Vs Number of insertions: 1.0183299389002036 %
+Average List Length: 1.2859420811686642
+
+Unsuccessful Test:
+Table Size: 1000
+Insertion time: 750553756
+Collision Number: 12
+Number of Collisions Vs Number of insertions: 1.0121457489878543 %
+Average List Length: 1.2859420811686642
+
+
+Test #2:
+Table size: 75000
+Load Factor I think: 0.5
+
+Linear
+Big Data Test:
+Insertion Time: 73721357
+Table Size: 50000
+Average Insertion time: 1474
+Collisions Number: 49592.0
+Probe Number: 351508
+Number of Collisions Vs Number of insertions: 0.99184 %
+
+Successful Test:
+Table Size: 1000
+Insertion Time: 1093301
+Average Insertion time: 1093
+Collision Number: 57238
+Probe Number: 10787
+Number of Collisions Vs Number of insertions: 57.238 %
+
+Unsuccessful Test:
+Table Size: 1000
+Insertion time: 1050051
+Average Insertion time: 1050
+Collision Number: 65117
+Probe Number: 22152
+Number of Collisions Vs Number of insertions: 65.117 %
+
+
+Quadratic
+Big Data Test:
+Insertion Time: 75634247
+Table Size: 50000
+Average Insertion time: 1512
+Collisions Number: 36964
+Probe Number: 206683
+Number of Collisions Vs Number of insertions: 0.73928 %
+
+Successful Test:
+Table Size: 1000
+Insertion Time: 2156327
+Average Insertion time: 2156
+Collision Number: 41175
+Probe Number: 7111
+Number of Collisions Vs Number of insertions: 41.175 %
+
+Unsuccessful Test:
+Table Size: 1000
+Insertion time: 2096086
+Average Insertion time: 2096
+Collision Number: 45599
+Probe Number: 14305
+Number of Collisions Vs Number of insertions: 45.599 %
+
+
+Random
+Big Data Test:
+Insertion Time: 56019087
+Table Size: 50000
+Average Insertion time: 1120
+Collisions Number: 13596
+Probe Number: 50000
+Number of Collisions Vs Number of insertions: 0.27192 %
+
+Successful Test:
+Table Size: 1000
+Insertion Time: 1123576
+Average Insertion time: 1123
+Collision Number: 14596
+Probe Number: 1000
+Number of Collisions Vs Number of insertions: 14.596 %
+
+Unsuccessful Test:
+Table Size: 1000
+Insertion time: 1073530
+Average Insertion time: 1073
+Collision Number: 15596
+Probe Number: 2000
+Number of Collisions Vs Number of insertions: 15.596 %
+
+
+LinkedList
+Big Data Test:
+Insertion Time: 96579966
+Table Size: 50000
+Average Insertion time: 1931
+Collisions Number: 13596
+Probe Number: 50000
+Number of Collisions Vs Number of insertions: -0.07939028262940616 %
+Average List Length: Infinity
+
+Successful Test:
+Table Size: 1000
+Insertion Time: 510228033
+Collision Number: 17
+Number of Collisions Vs Number of insertions: 1.017293997965412 %
+Average List Length: 1.3734754422590925
+
+Unsuccessful Test:
+Table Size: 1000
+Insertion time: 520943557
+Collision Number: 15
+Number of Collisions Vs Number of insertions: 1.015228426395939 %
+Average List Length: 1.3734754422590925
+
+
+Test #3:
+Table size: 60000
+Load Factor I think: 0.8
+
+Linear
+Big Data Test:
+Insertion Time: 67668813
+Table Size: 50000
+Average Insertion time: 1353
+Collisions Number: 122240.0
+Probe Number: 1146953
+Number of Collisions Vs Number of insertions: 2.4448 %
+
+Successful Test:
+Table Size: 1000
+Insertion Time: 1410880
+Average Insertion time: 1410
+Collision Number: 146774
+Probe Number: 33550
+Number of Collisions Vs Number of insertions: 146.774 %
+
+Unsuccessful Test:
+Table Size: 1000
+Insertion time: 1279894
+Average Insertion time: 1279
+Collision Number: 177858
+Probe Number: 76354
+Number of Collisions Vs Number of insertions: 177.858 %
+
+
+Quadratic
+Big Data Test:
+Insertion Time: 100950390
+Table Size: 50000
+Average Insertion time: 2019
+Collisions Number: 64581
+Probe Number: 348591
+Number of Collisions Vs Number of insertions: 1.29162 %
+
+Successful Test:
+Table Size: 1000
+Insertion Time: 3637644
+Average Insertion time: 3637
+Collision Number: 71760
+Probe Number: 10929
+Number of Collisions Vs Number of insertions: 71.76 %
+
+Unsuccessful Test:
+Table Size: 1000
+Insertion time: 3177956
+Average Insertion time: 3177
+Collision Number: 79462
+Probe Number: 22085
+Number of Collisions Vs Number of insertions: 79.462 %
+
+
+Random
+Big Data Test:
+Insertion Time: 62813988
+Table Size: 50000
+Average Insertion time: 1256
+Collisions Number: 16175
+Probe Number: 50000
+Number of Collisions Vs Number of insertions: 0.3235 %
+
+Successful Test:
+Table Size: 1000
+Insertion Time: 1878909
+Average Insertion time: 1878
+Collision Number: 17175
+Probe Number: 1000
+Number of Collisions Vs Number of insertions: 17.175 %
+
+Unsuccessful Test:
+Table Size: 1000
+Insertion time: 1721972
+Average Insertion time: 1721
+Collision Number: 18175
+Probe Number: 2000
+Number of Collisions Vs Number of insertions: 18.175 %
+
+
+LinkedList
+Big Data Test:
+Insertion Time: 83299093
+Table Size: 50000
+Average Insertion time: 1665
+Collisions Number: 16175
+Probe Number: 50000
+Number of Collisions Vs Number of insertions: -0.06589785831960461 %
+Average List Length: 1.4781966001478197
+
+Successful Test:
+Table Size: 1000
+Insertion Time: 593491291
+Collision Number: 20
+Number of Collisions Vs Number of insertions: 1.0204081632653061 %
+Average List Length: 1.4781966001478197
+
+Unsuccessful Test:
+Table Size: 1000
+Insertion time: 543776526
+Collision Number: 16
+Number of Collisions Vs Number of insertions: 1.016260162601626 %
+Average List Length: 1.4781966001478197
+
+
+Test #4:
+Table size: 55000
+Load Factor I think: 0.9
+
+Linear
+Big Data Test:
+Insertion Time: 89357198
+Table Size: 50000
+Average Insertion time: 1787
+Collisions Number: 245995.0
+Probe Number: 3440686
+Number of Collisions Vs Number of insertions: 4.9199 %
+
+Successful Test:
+Table Size: 1000
+Insertion Time: 2024414
+Average Insertion time: 2024
+Collision Number: 339640
+Probe Number: 142656
+Number of Collisions Vs Number of insertions: 339.64 %
+
+Unsuccessful Test:
+Table Size: 1000
+Insertion time: 2106898
+Average Insertion time: 2106
+Collision Number: 490598
+Probe Number: 368218
+Number of Collisions Vs Number of insertions: 490.598 %
+
+
+Quadratic
+Big Data Test:
+Insertion Time: 176633140
+Table Size: 50000
+Average Insertion time: 3532
+Collisions Number: 82092
+Probe Number: 438303
+Number of Collisions Vs Number of insertions: 1.64184 %
+
+Successful Test:
+Table Size: 1000
+Insertion Time: 3445798
+Average Insertion time: 3445
+Collision Number: 91038
+Probe Number: 12154
+Number of Collisions Vs Number of insertions: 91.038 %
+
+Unsuccessful Test:
+Table Size: 1000
+Insertion time: 3397296
+Average Insertion time: 3397
+Collision Number: 100569
+Probe Number: 24594
+Number of Collisions Vs Number of insertions: 100.569 %
+
+
+Random
+Big Data Test:
+Insertion Time: 67105017
+Table Size: 50000
+Average Insertion time: 1342
+Collisions Number: 17121
+Probe Number: 50000
+Number of Collisions Vs Number of insertions: 0.34242 %
+
+Successful Test:
+Table Size: 1000
+Insertion Time: 1262286
+Average Insertion time: 1262
+Collision Number: 18121
+Probe Number: 1000
+Number of Collisions Vs Number of insertions: 18.121 %
+
+Unsuccessful Test:
+Table Size: 1000
+Insertion time: 1232010
+Average Insertion time: 1232
+Collision Number: 19121
+Probe Number: 2000
+Number of Collisions Vs Number of insertions: 19.121 %
+
+
+LinkedList
+Big Data Test:
+Insertion Time: 93964261
+Table Size: 50000
+Average Insertion time: 1879
+Collisions Number: 17121
+Probe Number: 50000
+Number of Collisions Vs Number of insertions: -0.06203089138390919 %
+Average List Length: 1.5207275160436753
+
+Successful Test:
+Table Size: 1000
+Insertion Time: 12415562
+Collision Number: 24
+Number of Collisions Vs Number of insertions: 1.0245901639344261 %
+Average List Length: 1.5207275160436753
+
+Unsuccessful Test:
+Table Size: 1000
+Insertion time: 3293805
+Collision Number: 21
+Number of Collisions Vs Number of insertions: 1.0214504596527068 %
+Average List Length: 1.5207275160436753
+
+
+Test #5:
+Table size: 50500
+Load Factor I think: 0.99
+
+Linear
+Big Data Test:
+Insertion Time: 246832393
+Table Size: 50000
+Average Insertion time: 4936
+Collisions Number: 2455078.0
+Probe Number: 156067676
+Number of Collisions Vs Number of insertions: 49.10156 %
+
+Successful Test:
+Table Size: 1000
+Insertion Time: 47232827
+Average Insertion time: 47232
+Collision Number: 13052184
+Probe Number: 25976254
+Number of Collisions Vs Number of insertions: 13052.184 %
+
+Unsuccessful Test:
+Table Size: 1000
+Insertion time: 78759068
+Average Insertion time: 78759
+Collision Number: 38491791
+Probe Number: 51465258
+Number of Collisions Vs Number of insertions: 38491.791 %
+
+
+Quadratic
+Big Data Test:
+Insertion Time: 151278998
+Table Size: 50000
+Average Insertion time: 3025
+Collisions Number: 107324
+Probe Number: 537852
+Number of Collisions Vs Number of insertions: 2.14648 %
+
+Successful Test:
+Table Size: 1000
+Insertion Time: 4783462
+Average Insertion time: 4783
+Collision Number: 118408
+Probe Number: 13247
+Number of Collisions Vs Number of insertions: 118.408 %
+
+Unsuccessful Test:
+Table Size: 1000
+Insertion time: 4780373
+Average Insertion time: 4780
+Collision Number: 129691
+Probe Number: 26532
+Number of Collisions Vs Number of insertions: 129.691 %
+
+
+Random
+Big Data Test:
+Insertion Time: 206932621
+Table Size: 50000
+Average Insertion time: 4138
+Collisions Number: 18262
+Probe Number: 50000
+Number of Collisions Vs Number of insertions: 0.36524 %
+
+Successful Test:
+Table Size: 1000
+Insertion Time: 2025341
+Average Insertion time: 2025
+Collision Number: 19262
+Probe Number: 1000
+Number of Collisions Vs Number of insertions: 19.262 %
+
+Unsuccessful Test:
+Table Size: 1000
+Insertion time: 2331181
+Average Insertion time: 2331
+Collision Number: 20262
+Probe Number: 2000
+Number of Collisions Vs Number of insertions: 20.262 %
+
+
+LinkedList
+Big Data Test:
+Insertion Time: 84122082
+Table Size: 50000
+Average Insertion time: 1682
+Collisions Number: 18262
+Probe Number: 50000
+Number of Collisions Vs Number of insertions: -0.05793071486502144 %
+Average List Length: 1.5753985758396873
+
+Successful Test:
+Table Size: 1000
+Insertion Time: 3367947
+Collision Number: 21
+Number of Collisions Vs Number of insertions: 1.0214504596527068 %
+Average List Length: 1.5753985758396873
+
+Unsuccessful Test:
+Table Size: 1000
+Insertion time: 2545887
+Collision Number: 16
+Number of Collisions Vs Number of insertions: 1.016260162601626 %
+Average List Length: 1.5753985758396873
+
+

@@ -1,0 +1,13 @@
+1,Green,red,4,6
+1,2,Red,8,3
+Union
+1,5,7,D,B
+D,5,7,Green
+Intersection
+1,10,55
+2,6,8,9
+Intersection
+Blue,33,9,D
+Blue,67,8,D
+Complement
+

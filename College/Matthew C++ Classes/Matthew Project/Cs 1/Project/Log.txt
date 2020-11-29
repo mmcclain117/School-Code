@@ -1,0 +1,13 @@
+Statistics For This Month:
+For Savings Account:
+Initial Balance: $1000
+Deposits Made: 1
+Withdrawls Made: 5
+Service Charges For This Month: $1
+Ending Balance: $1513.99
+For Checking Account:
+Initial Balance: $1000
+Deposits Made: 1
+Withdrawls Made: 1
+Service Charges For This Month: $5.1
+Ending Balance: $1.9e+03

@@ -1,0 +1,8 @@
+Took me a couple of read-throughs before I realized how the key was
+consecutive letters of the plaintext minus spaces, you might want to change
+the last sentence to be "Here, the key is seen spanning the third through
+fifth words of the Example Output".
+
+
+Took me about fifteen minutes to code up and just a couple of minutes to
+test out.

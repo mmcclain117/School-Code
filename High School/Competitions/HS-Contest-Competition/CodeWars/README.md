@@ -1,0 +1,1 @@
+All the code from 2005 and before is mine. Some code afterwards was released by HP but barely readable. Took the code and manipulated it to solve the problem just a different way. Not sure what to do about that as they are not noticable the same but just giving a warning.

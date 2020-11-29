@@ -1,0 +1,15 @@
+﻿  Assembling asm.asm...
+  Assembling Selection.asm...
+Selection.asm(51): error A2008: syntax error : exit
+Selection.asm(27): error A2006: undefined symbol : WriteString
+Selection.asm(44): error A2006: undefined symbol : WriteString
+Selection.asm(64): error A2006: undefined symbol : RandomRange
+Selection.asm(68): error A2074: cannot access label through segment registers
+Selection.asm(74): error A2074: cannot access label through segment registers
+Selection.asm(89): error A2074: cannot access label through segment registers
+Selection.asm(90): error A2006: undefined symbol : WriteDec
+Selection.asm(91): error A2006: undefined symbol : TAB
+Selection.asm(92): error A2006: undefined symbol : WriteChar
+Selection.asm(97): error A2006: undefined symbol : Crlf
+Selection.asm(159): warning A4023: with /coff switch, leading underscore required for start address : main
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\BuildCustomizations\masm.targets(69,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Selection.obj" /W3 /errorReport:prompt  /TaSelection.asm" exited with code 1.

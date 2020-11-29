@@ -1,0 +1,1 @@
+five minute problem if you know your strings.h.  Almost wanted to use regex(), but that was overkill.  Shouldn't those be spellbots instead of speelbots [sic]?

@@ -1,0 +1,12 @@
+1
+4
+Rey
+Aar
+Gen
+Bud
+5
+Rey Aar 1515
+Rey Gen 2379
+Rey Bud 2443
+Aar Bud 933
+Gen Bud 787

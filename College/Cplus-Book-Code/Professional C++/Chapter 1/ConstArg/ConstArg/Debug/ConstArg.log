@@ -1,0 +1,2 @@
+﻿  ConstArg.cpp
+c:\users\maste\dropbox\coding projects\git\cplus book code\cplus-book-code\professional c++\chapter 1\constarg\constarg\constarg.cpp(12): error C3892: 'myString': you cannot assign to a variable that is const

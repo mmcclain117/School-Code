@@ -1,0 +1,36 @@
+Total number of Words: 727942
+Total number of Characters: 3871891
+Most Used Letters:
+  727616
+e 375606
+t 249144
+o 244971
+a 225770
+h 209017
+Least Used Characters:
+! 1733
+R 1664
+Z 910
+K 849
+q 834
+( 334
+) 334
+U 270
+V 149
+Q 40
+X 31
+Most Used Words:
+the 51579
+and 28077
+of 24975
+to 20688
+you 12329
+in 10569
+will 10059
+I 8724
+a 8626
+he 7303
+is 7049
+Lord 7006
+Least Used words:
+Half of all unique words appear less than 10 times.

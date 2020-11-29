@@ -1,0 +1,4 @@
+Compressed Size: 23575
+Original Size: 127476
+Compressed by : 1039.0%
+Time: 7121587451

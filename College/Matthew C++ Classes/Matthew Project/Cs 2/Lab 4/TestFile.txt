@@ -1,0 +1,14 @@
+EVAL eval 
+eval
+EXP V01 13 + ( * );
+unknown ; - * ( ) 
+/ -
+EVAx
+exp V01 * 5 * (V02 + 2);
+value V01 18;
+value V02 -4;
+eval;
+value V02 99;
+eval;
+Z
+V03;

@@ -1,0 +1,32 @@
+10
++ + + + + + + + + +
++ + + + + + X + + +
++ + + O + + X X + +
++ + + + + + X X + +
++ + + + + + + X + +
+X + + + + + + + + +
+X + + + + + + + + +
++ X + + + O + < + +
++ X + + + + + + + +
++ + + + + + + + + +
+F F F A F F F A A F
+F F F A F F A F F F
+A F F Q F F Q Q F F
+F H F F A F F Q F F
+F H H H F F A F F F
+Q F H H H H F H H A
+Q F F H H H H H F F
+F Q F F H Q H A F F
+A Q A F F A F F F A
+F F F F A F A F F F
+MOVE 1
+DRILL
+RIGHT
+MOVE 5
+RIGHT
+DRILL
+LEFT
+LEFT
+MOVE 3
+DRILL
+END

@@ -1,0 +1,3 @@
+﻿  Assembling ..\Lib64\Irvine64.asm...
+MASM : fatal error A1000: cannot open file : ..\Lib64\Irvine64.asm
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\BuildCustomizations\masm.targets(69,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\Irvine64.obj" /W3 /errorReport:prompt  /Ta..\Lib64\Irvine64.asm" exited with code 1.

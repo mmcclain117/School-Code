@@ -1,0 +1,6 @@
+5
+"one" "neo"
+"sacred cow" "code wars"
+"A stitch in time saves nine." "Is this meant as incentive?"
+"cow adviser" "code wars iv" 
+"dormitory" "dirty room"

@@ -1,0 +1,2 @@
+Quick 10 minute problem.  greedy algorithm mcnugget problem, might be nice to find out what is the
+best number to add so that you have a complete shippable set from 1 to N.

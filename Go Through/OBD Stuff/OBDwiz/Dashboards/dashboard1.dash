@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dashboard culture="en-US" version="1.00" width="708" height="409" autoscale="True">
+  <Background>
+    <Image layout="Stretch" format="FilePath" filePath="" />
+  </Background>
+  <Foreground>
+    <DashboardControl>
+      <IDashboardItem type="CustomLinearGauge" x="360" y="1" width="84" height="201">
+        <PID>14</PID>
+        <Min>-60</Min>
+        <Max>60</Max>
+        <NumberOfMajorTicks>13</NumberOfMajorTicks>
+        <NumberOfMinorTicks>4</NumberOfMinorTicks>
+        <Font>Microsoft Sans Serif, 9.75pt</Font>
+        <NumberFont>Microsoft Sans Serif, 8.25pt</NumberFont>
+        <NumberOfDecimalsDisplay>0</NumberOfDecimalsDisplay>
+        <Orientation>Vertical</Orientation>
+        <DisplayName>Timing Advance</DisplayName>
+        <BorderWidth>4</BorderWidth>
+      </IDashboardItem>
+    </DashboardControl>
+    <DashboardControl>
+      <IDashboardItem type="CustomGauge" x="0" y="0" width="252" height="196">
+        <PID>16</PID>
+        <Min>0</Min>
+        <Max>40</Max>
+        <RedLineStartValue>0</RedLineStartValue>
+        <DigitalDisplayMultiplier>1</DigitalDisplayMultiplier>
+        <NumberOfDecimalsDisplay>0</NumberOfDecimalsDisplay>
+        <NumberOfTicks>8</NumberOfTicks>
+        <NumberOfMinorTicks>9</NumberOfMinorTicks>
+        <Font>Calibri, 14pt, style=Bold</Font>
+        <NumberFont>Calibri, 12pt</NumberFont>
+        <StartAngle>130</StartAngle>
+        <SweepAngle>280</SweepAngle>
+        <Label>MAF</Label>
+        <BorderWidth>10</BorderWidth>
+        <TickLength>10</TickLength>
+        <BackgroundImage>
+          <Image layout="Stretch" format="FilePath" filePath="" />
+        </BackgroundImage>
+        <ShowTicks>True</ShowTicks>
+        <ShowValue>True</ShowValue>
+        <ShowUnits>True</ShowUnits>
+      </IDashboardItem>
+    </DashboardControl>
+    <DashboardControl>
+      <IDashboardItem type="CustomGauge" x="454" y="0" width="252" height="196">
+        <PID>4</PID>
+        <Min>0</Min>
+        <Max>100</Max>
+        <RedLineStartValue>0</RedLineStartValue>
+        <DigitalDisplayMultiplier>1</DigitalDisplayMultiplier>
+        <NumberOfDecimalsDisplay>0</NumberOfDecimalsDisplay>
+        <NumberOfTicks>10</NumberOfTicks>
+        <NumberOfMinorTicks>9</NumberOfMinorTicks>
+        <Font>Calibri, 14pt, style=Bold</Font>
+        <NumberFont>Calibri, 12pt</NumberFont>
+        <StartAngle>130</StartAngle>
+        <SweepAngle>280</SweepAngle>
+        <Label>Load</Label>
+        <BorderWidth>10</BorderWidth>
+        <TickLength>10</TickLength>
+        <BackgroundImage>
+          <Image layout="Stretch" format="FilePath" filePath="" />
+        </BackgroundImage>
+        <ShowTicks>True</ShowTicks>
+        <ShowValue>True</ShowValue>
+        <ShowUnits>True</ShowUnits>
+      </IDashboardItem>
+    </DashboardControl>
+    <DashboardControl>
+      <IDashboardItem type="CustomLinearGauge" x="261" y="1" width="84" height="201">
+        <PID>17</PID>
+        <Min>0</Min>
+        <Max>100</Max>
+        <NumberOfMajorTicks>11</NumberOfMajorTicks>
+        <NumberOfMinorTicks>4</NumberOfMinorTicks>
+        <Font>Microsoft Sans Serif, 9.75pt</Font>
+        <NumberFont>Microsoft Sans Serif, 8.25pt</NumberFont>
+        <NumberOfDecimalsDisplay>0</NumberOfDecimalsDisplay>
+        <Orientation>Vertical</Orientation>
+        <DisplayName>Throttle Position</DisplayName>
+        <BorderWidth>4</BorderWidth>
+      </IDashboardItem>
+    </DashboardControl>
+    <DashboardControl>
+      <IDashboardItem type="CustomGauge" x="477" y="194" width="220" height="196">
+        <PID>15</PID>
+        <Min>0</Min>
+        <Max>120</Max>
+        <RedLineStartValue>0</RedLineStartValue>
+        <DigitalDisplayMultiplier>1</DigitalDisplayMultiplier>
+        <NumberOfDecimalsDisplay>0</NumberOfDecimalsDisplay>
+        <NumberOfTicks>6</NumberOfTicks>
+        <NumberOfMinorTicks>9</NumberOfMinorTicks>
+        <Font>Calibri, 14pt, style=Bold</Font>
+        <NumberFont>Calibri, 12pt</NumberFont>
+        <StartAngle>130</StartAngle>
+        <SweepAngle>280</SweepAngle>
+        <Label>Intake</Label>
+        <BorderWidth>10</BorderWidth>
+        <TickLength>10</TickLength>
+        <BackgroundImage>
+          <Image layout="Stretch" format="FilePath" filePath="" />
+        </BackgroundImage>
+        <ShowTicks>True</ShowTicks>
+        <ShowValue>True</ShowValue>
+        <ShowUnits>True</ShowUnits>
+      </IDashboardItem>
+    </DashboardControl>
+    <DashboardControl>
+      <IDashboardItem type="CustomGauge" x="10" y="194" width="220" height="196">
+        <PID>5</PID>
+        <Min>0</Min>
+        <Max>250</Max>
+        <RedLineStartValue>220</RedLineStartValue>
+        <DigitalDisplayMultiplier>1</DigitalDisplayMultiplier>
+        <NumberOfDecimalsDisplay>0</NumberOfDecimalsDisplay>
+        <NumberOfTicks>5</NumberOfTicks>
+        <NumberOfMinorTicks>9</NumberOfMinorTicks>
+        <Font>Calibri, 14pt, style=Bold</Font>
+        <NumberFont>Calibri, 12pt</NumberFont>
+        <StartAngle>130</StartAngle>
+        <SweepAngle>280</SweepAngle>
+        <Label>Coolant</Label>
+        <BorderWidth>10</BorderWidth>
+        <TickLength>10</TickLength>
+        <BackgroundImage>
+          <Image layout="Stretch" format="FilePath" filePath="" />
+        </BackgroundImage>
+        <ShowTicks>True</ShowTicks>
+        <ShowValue>True</ShowValue>
+        <ShowUnits>True</ShowUnits>
+      </IDashboardItem>
+    </DashboardControl>
+    <DashboardControl>
+      <IDashboardItem type="CustomGauge" x="229" y="208" width="248" height="197">
+        <PID>13</PID>
+        <Min>0</Min>
+        <Max>120</Max>
+        <RedLineStartValue>0</RedLineStartValue>
+        <DigitalDisplayMultiplier>1</DigitalDisplayMultiplier>
+        <NumberOfDecimalsDisplay>0</NumberOfDecimalsDisplay>
+        <NumberOfTicks>12</NumberOfTicks>
+        <NumberOfMinorTicks>3</NumberOfMinorTicks>
+        <Font>Calibri, 14pt, style=Bold</Font>
+        <NumberFont>Calibri, 12pt</NumberFont>
+        <StartAngle>120</StartAngle>
+        <SweepAngle>300</SweepAngle>
+        <Label />
+        <BorderWidth>10</BorderWidth>
+        <TickLength>10</TickLength>
+        <BackgroundImage>
+          <Image layout="Stretch" format="FilePath" filePath="" />
+        </BackgroundImage>
+        <ShowTicks>True</ShowTicks>
+        <ShowValue>True</ShowValue>
+        <ShowUnits>True</ShowUnits>
+      </IDashboardItem>
+    </DashboardControl>
+  </Foreground>
+</Dashboard>

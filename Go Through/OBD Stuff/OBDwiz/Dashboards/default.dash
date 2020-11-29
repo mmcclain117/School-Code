@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dashboard culture="en-US" version="1.00" width="883" height="558" autoscale="True" maintainAspectRatio="False">
+  <Background>
+    <Image layout="Stretch" format="FilePath" filePath="" />
+  </Background>
+  <Foreground>
+    <DashboardControl>
+      <IDashboardItem type="CustomPowerBar" x="445" y="206" width="106" height="340">
+        <LoggableItem ItemType="PIDLoggableItem">
+          <PID>
+            <type>SAEPID</type>
+            <number>4</number>
+            <subResponse>0</subResponse>
+          </PID>
+        </LoggableItem>
+        <Min>0</Min>
+        <Max>100</Max>
+        <DisplayName>Load</DisplayName>
+      </IDashboardItem>
+    </DashboardControl>
+    <DashboardControl>
+      <IDashboardItem type="CustomPowerBar" x="329" y="206" width="106" height="340">
+        <LoggableItem ItemType="PIDLoggableItem">
+          <PID>
+            <type>SAEPID</type>
+            <number>5</number>
+            <subResponse>0</subResponse>
+          </PID>
+        </LoggableItem>
+        <Min>0</Min>
+        <Max>240</Max>
+        <DisplayName>Temp</DisplayName>
+      </IDashboardItem>
+    </DashboardControl>
+    <DashboardControl>
+      <IDashboardItem type="CustomTripDisplay" x="0" y="101" width="879" height="100">
+        <Font>Microsoft Sans Serif, 27.75pt, style=Bold</Font>
+        <TitleFont>Microsoft Sans Serif, 12pt</TitleFont>
+      </IDashboardItem>
+    </DashboardControl>
+    <DashboardControl>
+      <IDashboardItem type="CustomFuelEfficiencyDisplay" x="0" y="0" width="879" height="100">
+        <Font>Microsoft Sans Serif, 27.75pt, style=Bold</Font>
+        <TitleFont>Microsoft Sans Serif, 12pt</TitleFont>
+      </IDashboardItem>
+    </DashboardControl>
+    <DashboardControl>
+      <IDashboardItem type="CustomGauge" x="552" y="203" width="328" height="350">
+        <LoggableItem ItemType="PIDLoggableItem">
+          <PID>
+            <type>SAEPID</type>
+            <number>13</number>
+            <subResponse>0</subResponse>
+          </PID>
+        </LoggableItem>
+        <Min>0</Min>
+        <Max>100</Max>
+        <RedLineStartValue>0</RedLineStartValue>
+        <DigitalDisplayMultiplier>1</DigitalDisplayMultiplier>
+        <NumberOfDecimalsDisplay>0</NumberOfDecimalsDisplay>
+        <NumberOfTicks>10</NumberOfTicks>
+        <NumberOfMinorTicks>10</NumberOfMinorTicks>
+        <Font>Calibri, 14pt, style=Bold</Font>
+        <NumberFont>Calibri, 12pt</NumberFont>
+        <StartAngle>120</StartAngle>
+        <SweepAngle>300</SweepAngle>
+        <Label />
+        <BorderWidth>10</BorderWidth>
+        <TickLength>10</TickLength>
+        <BackgroundImage>
+          <Image layout="Stretch" format="FilePath" filePath="" />
+        </BackgroundImage>
+        <ShowTicks>True</ShowTicks>
+        <ShowValue>True</ShowValue>
+        <ShowUnits>True</ShowUnits>
+        <Square>False</Square>
+        <Preset>[MyDocuments][ApplicationName]\Gauge Presets\Radial\RadialGauge1.rgp</Preset>
+        <ShowDigitalDisplay>False</ShowDigitalDisplay>
+        <RefreshInterval>200</RefreshInterval>
+      </IDashboardItem>
+    </DashboardControl>
+    <DashboardControl>
+      <IDashboardItem type="CustomGauge" x="0" y="203" width="328" height="350">
+        <LoggableItem ItemType="PIDLoggableItem">
+          <PID>
+            <type>SAEPID</type>
+            <number>12</number>
+            <subResponse>0</subResponse>
+          </PID>
+        </LoggableItem>
+        <Min>0</Min>
+        <Max>7</Max>
+        <RedLineStartValue>6</RedLineStartValue>
+        <DigitalDisplayMultiplier>1000</DigitalDisplayMultiplier>
+        <NumberOfDecimalsDisplay>0</NumberOfDecimalsDisplay>
+        <NumberOfTicks>7</NumberOfTicks>
+        <NumberOfMinorTicks>10</NumberOfMinorTicks>
+        <Font>Calibri, 14pt, style=Bold</Font>
+        <NumberFont>Calibri, 12pt</NumberFont>
+        <StartAngle>120</StartAngle>
+        <SweepAngle>300</SweepAngle>
+        <Label />
+        <BorderWidth>10</BorderWidth>
+        <TickLength>10</TickLength>
+        <BackgroundImage>
+          <Image layout="Stretch" format="FilePath" filePath="" />
+        </BackgroundImage>
+        <ShowTicks>True</ShowTicks>
+        <ShowValue>True</ShowValue>
+        <ShowUnits>True</ShowUnits>
+        <Square>False</Square>
+        <Preset>[MyDocuments][ApplicationName]\Gauge Presets\Radial\RadialGauge1.rgp</Preset>
+        <ShowDigitalDisplay>False</ShowDigitalDisplay>
+        <RefreshInterval>200</RefreshInterval>
+      </IDashboardItem>
+    </DashboardControl>
+  </Foreground>
+</Dashboard>

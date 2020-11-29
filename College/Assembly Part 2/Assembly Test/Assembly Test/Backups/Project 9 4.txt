@@ -1,0 +1,64 @@
+#include<iostream>
+
+using namespace std;
+
+int main() {
+	int arr[] = { 5,8,6,3,4,1,0,9,2,7 };
+	int aSize = sizeof(arr) / 4;
+	int sorted[] = { 5,8,6,3,4,1,0,9,2,7 };
+	int lp = 0; // lp Point
+	long lv; // Low Value
+	cout << "SIZE: " << aSize << endl;
+	for (int i = 0; i < 9; i++) {
+		lv = sorted[i];
+		for (int j = i + 1; j < 10; j++) {
+			if (sorted[j] < lv) {
+				lp = j;
+				lv = sorted[j];
+			}
+		}
+		int tmp = sorted[i];
+		sorted[i] = sorted[lp];
+		sorted[lp] = tmp;
+	}
+	lv = 10000;
+	lp = 0;
+	int Count = 10;
+	
+	_asm {
+		mov ecx, Count;
+		dec ecx;// decrement count by 1
+
+	L1:	
+		push ecx; // save outer loop count
+		mov	esi, arr; //point to first value
+
+	L2:
+		mov	eax, arr[esi]; // get array value
+		cmp arr[esi + 4], eax;// compare a pair of values
+		jge	L3; // if[esi] <= [edi], don't exch
+		xchg eax, arr[esi + 4]; // exchange the pair
+		mov arr[esi], eax;
+
+	L3:
+		add	esi, 4;//  move both pointers forward
+		loop	L2;//  inner loop
+
+		pop	ecx;//  retrieve outer loop count
+		loop L1; // else repeat outer loop
+
+	L4:
+		ret;
+	}
+	for (int i = 0; i < aSize; i++) {
+		cout << arr[i] << " ";
+	}
+	cout << endl;
+	for (int i = 0; i < aSize; i++) {
+		cout << sorted[i] << " ";
+	}
+	cout << endl;
+
+	system("PAUSE");
+	return 0;
+}

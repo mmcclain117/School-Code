@@ -1,0 +1,8 @@
+﻿SpreadsheetNoCopyFrom.obj : error LNK2005: "public: __thiscall Spreadsheet::Spreadsheet(class Spreadsheet const &)" (??0Spreadsheet@@QAE@ABV0@@Z) already defined in Spreadsheet.obj
+SpreadsheetNoCopyFrom.obj : error LNK2005: "public: __thiscall Spreadsheet::Spreadsheet(int,int)" (??0Spreadsheet@@QAE@HH@Z) already defined in Spreadsheet.obj
+SpreadsheetNoCopyFrom.obj : error LNK2005: "public: __thiscall Spreadsheet::~Spreadsheet(void)" (??1Spreadsheet@@QAE@XZ) already defined in Spreadsheet.obj
+SpreadsheetNoCopyFrom.obj : error LNK2005: "public: class Spreadsheet & __thiscall Spreadsheet::operator=(class Spreadsheet const &)" (??4Spreadsheet@@QAEAAV0@ABV0@@Z) already defined in Spreadsheet.obj
+SpreadsheetNoCopyFrom.obj : error LNK2005: "public: class SpreadsheetCell __thiscall Spreadsheet::getCellAt(int,int)" (?getCellAt@Spreadsheet@@QAE?AVSpreadsheetCell@@HH@Z) already defined in Spreadsheet.obj
+SpreadsheetNoCopyFrom.obj : error LNK2005: "protected: bool __thiscall Spreadsheet::inRange(int,int)" (?inRange@Spreadsheet@@IAE_NHH@Z) already defined in Spreadsheet.obj
+SpreadsheetNoCopyFrom.obj : error LNK2005: "public: void __thiscall Spreadsheet::setCellAt(int,int,class SpreadsheetCell const &)" (?setCellAt@Spreadsheet@@QAEXHHABVSpreadsheetCell@@@Z) already defined in Spreadsheet.obj
+C:\Users\Coder\Dropbox\Coding Projects\Git\Cplus Book Code\Cplus-Book-Code\Professional C++\Chapter 7\Spreadsheet\Debug\Spreadsheet.exe : fatal error LNK1169: one or more multiply defined symbols found

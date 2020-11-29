@@ -1,0 +1,7 @@
+Another good recursive solved problem.  You might want them to know that S and F could be anywhere, so they
+need to be able to move UDLR, since your example only uses D and R movements.  At first I thought that you
+needed to stay at any one square one time unit to eat up to your height, but it was a quick fix once I
+compared my answer to the sample answer and saw the repeated E commands.
+
+
+Also, the sorting of the output is weird.  Shouldn't it match the order of the roster, since that's the order that their going into the field?

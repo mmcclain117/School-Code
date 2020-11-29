@@ -1,0 +1,11 @@
+4 8 6
+LOOP
+FILE
+INPUT
+OUTPUT
+I T I T T T L N 
+I E O U T P U T 
+E E P O O P U E 
+L N O O U O E O 
+I P L N L U T F 
+F T T T P U N T 

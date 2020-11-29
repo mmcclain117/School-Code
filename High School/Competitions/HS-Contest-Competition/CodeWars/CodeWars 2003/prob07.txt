@@ -1,0 +1,5 @@
+C major
+gb minor
+Bb major
+d# minor
+

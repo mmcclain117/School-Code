@@ -1,0 +1,33 @@
+﻿  Project6.cpp
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(17): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(19): error C2065: 'eax': undeclared identifier
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(19): error C3192: syntax error: '^' is not a prefix operator (did you mean '*'?)
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(20): error C2065: 'ecx': undeclared identifier
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(20): error C3192: syntax error: '^' is not a prefix operator (did you mean '*'?)
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(21): error C2065: 'ebx': undeclared identifier
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(21): error C3192: syntax error: '^' is not a prefix operator (did you mean '*'?)
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(23): error C2065: 'cmp': undeclared identifier
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(23): error C2146: syntax error: missing ';' before identifier 'eax'
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(23): error C2065: 'eax': undeclared identifier
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(24): error C2065: 'jnl': undeclared identifier
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(24): error C2146: syntax error: missing ';' before identifier 'endwhile'
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(24): error C2065: 'endwhile': undeclared identifier
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(25): error C2065: 'add': undeclared identifier
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(25): error C2146: syntax error: missing ';' before identifier 'ebx'
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(25): error C2065: 'ebx': undeclared identifier
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(25): error C2065: 'ecx': undeclared identifier
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(26): error C2065: 'inc': undeclared identifier
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(26): error C2146: syntax error: missing ';' before identifier 'ecx'
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(26): error C2065: 'ecx': undeclared identifier
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(27): error C2065: 'inc': undeclared identifier
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(27): error C2146: syntax error: missing ';' before identifier 'ol'
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(27): error C2065: 'ecx': undeclared identifier
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(29): error C2065: 'cmp': undeclared identifier
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(29): error C2146: syntax error: missing ';' before identifier 'ecx'
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(29): error C2065: 'ecx': undeclared identifier
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(30): error C2065: 'jle': undeclared identifier
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(30): error C2146: syntax error: missing ';' before identifier 'beginwhile'
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(30): error C2065: 'beginwhile': undeclared identifier
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(32): error C2065: 'mov': undeclared identifier
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(32): error C2146: syntax error: missing ';' before identifier 'a'
+c:\users\maste\source\repos\assembly part 2\assembly test\assembly test\project6.cpp(32): error C2065: 'ebx': undeclared identifier

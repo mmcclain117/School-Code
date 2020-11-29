@@ -1,0 +1,42 @@
+Triginomitry
+Recurssions
+Combinations
+Permutations
+Factorial
+Fibbinocci mod __
+golden ratio
+Eulers
+GCD
+LCM
+Matricies
+Tribinocci
+Brute force
+A* path finding
+Greedy algorithem
+Path finding
+Sorting
+implementations
+sorting
+binary search
+Number theory
+Fast Fourier transform
+proboblities
+divide and conquer
+Gaussian Random VariablesPseudo-Approximation and Hereditary Discrepancy
+Polymorphism
+Iterators
+Treeset
+Hashset
+proirityqueue
+Queues
+Hashmap
+Treemap
+Stacks
+binary trees
+Bubble sort
+insetion sort
+mergesort
+linear search
+Sorting and searching algorithems
+String builder
+Linkedlist

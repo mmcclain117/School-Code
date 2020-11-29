@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dashboard culture="en-US" version="1.00" width="814" height="471" autoscale="True">
+  <Background>
+    <Image layout="Stretch" format="FilePath" filePath="" />
+  </Background>
+  <Foreground>
+    <DashboardControl>
+      <IDashboardItem type="CustomGauge" x="0" y="8" width="274" height="219">
+        <PID>16</PID>
+        <Min>0</Min>
+        <Max>40</Max>
+        <RedLineStartValue>0</RedLineStartValue>
+        <DigitalDisplayMultiplier>1</DigitalDisplayMultiplier>
+        <NumberOfDecimalsDisplay>0</NumberOfDecimalsDisplay>
+        <NumberOfTicks>8</NumberOfTicks>
+        <NumberOfMinorTicks>9</NumberOfMinorTicks>
+        <Font>Calibri, 14pt, style=Bold</Font>
+        <NumberFont>Calibri, 12pt</NumberFont>
+        <StartAngle>130</StartAngle>
+        <SweepAngle>280</SweepAngle>
+        <Label>MAF</Label>
+        <BorderWidth>10</BorderWidth>
+        <TickLength>10</TickLength>
+        <BackgroundImage>
+          <Image layout="Stretch" format="FilePath" filePath="" />
+        </BackgroundImage>
+        <ShowTicks>True</ShowTicks>
+        <ShowValue>True</ShowValue>
+        <ShowUnits>True</ShowUnits>
+      </IDashboardItem>
+    </DashboardControl>
+    <DashboardControl>
+      <IDashboardItem type="CustomLinearGauge" x="575" y="226" width="202" height="89">
+        <PID>7</PID>
+        <Min>-15</Min>
+        <Max>15</Max>
+        <NumberOfMajorTicks>7</NumberOfMajorTicks>
+        <NumberOfMinorTicks>4</NumberOfMinorTicks>
+        <Font>Microsoft Sans Serif, 8.25pt</Font>
+        <NumberFont>Microsoft Sans Serif, 8.25pt</NumberFont>
+        <NumberOfDecimalsDisplay>0</NumberOfDecimalsDisplay>
+        <Orientation>Horizontal</Orientation>
+        <DisplayName>Long Trim Bank 1</DisplayName>
+        <BorderWidth>6</BorderWidth>
+      </IDashboardItem>
+    </DashboardControl>
+    <DashboardControl>
+      <IDashboardItem type="CustomLinearGauge" x="33" y="229" width="202" height="89">
+        <PID>6</PID>
+        <Min>-15</Min>
+        <Max>15</Max>
+        <NumberOfMajorTicks>7</NumberOfMajorTicks>
+        <NumberOfMinorTicks>4</NumberOfMinorTicks>
+        <Font>Microsoft Sans Serif, 8.25pt</Font>
+        <NumberFont>Microsoft Sans Serif, 8.25pt</NumberFont>
+        <NumberOfDecimalsDisplay>0</NumberOfDecimalsDisplay>
+        <Orientation>Horizontal</Orientation>
+        <DisplayName>Short Trim Bank 1</DisplayName>
+        <BorderWidth>6</BorderWidth>
+      </IDashboardItem>
+    </DashboardControl>
+    <DashboardControl>
+      <IDashboardItem type="CustomGauge" x="532" y="7" width="274" height="219">
+        <PID>4</PID>
+        <Min>0</Min>
+        <Max>100</Max>
+        <RedLineStartValue>0</RedLineStartValue>
+        <DigitalDisplayMultiplier>1</DigitalDisplayMultiplier>
+        <NumberOfDecimalsDisplay>0</NumberOfDecimalsDisplay>
+        <NumberOfTicks>10</NumberOfTicks>
+        <NumberOfMinorTicks>9</NumberOfMinorTicks>
+        <Font>Calibri, 14pt, style=Bold</Font>
+        <NumberFont>Calibri, 12pt</NumberFont>
+        <StartAngle>130</StartAngle>
+        <SweepAngle>280</SweepAngle>
+        <Label>Load</Label>
+        <BorderWidth>10</BorderWidth>
+        <TickLength>10</TickLength>
+        <BackgroundImage>
+          <Image layout="Stretch" format="FilePath" filePath="" />
+        </BackgroundImage>
+        <ShowTicks>True</ShowTicks>
+        <ShowValue>True</ShowValue>
+        <ShowUnits>True</ShowUnits>
+      </IDashboardItem>
+    </DashboardControl>
+    <DashboardControl>
+      <IDashboardItem type="CustomGauge" x="248" y="229" width="315" height="232">
+        <PID>12</PID>
+        <Min>0</Min>
+        <Max>7</Max>
+        <RedLineStartValue>6</RedLineStartValue>
+        <DigitalDisplayMultiplier>1000</DigitalDisplayMultiplier>
+        <NumberOfDecimalsDisplay>0</NumberOfDecimalsDisplay>
+        <NumberOfTicks>7</NumberOfTicks>
+        <NumberOfMinorTicks>9</NumberOfMinorTicks>
+        <Font>Calibri, 14pt, style=Bold</Font>
+        <NumberFont>Calibri, 12pt</NumberFont>
+        <StartAngle>130</StartAngle>
+        <SweepAngle>280</SweepAngle>
+        <Label />
+        <BorderWidth>10</BorderWidth>
+        <TickLength>10</TickLength>
+        <BackgroundImage>
+          <Image layout="Stretch" format="FilePath" filePath="" />
+        </BackgroundImage>
+        <ShowTicks>True</ShowTicks>
+        <ShowValue>True</ShowValue>
+        <ShowUnits>True</ShowUnits>
+      </IDashboardItem>
+    </DashboardControl>
+    <DashboardControl>
+      <IDashboardItem type="CustomLinearGauge" x="575" y="335" width="202" height="89">
+        <PID>9</PID>
+        <Min>-15</Min>
+        <Max>15</Max>
+        <NumberOfMajorTicks>7</NumberOfMajorTicks>
+        <NumberOfMinorTicks>4</NumberOfMinorTicks>
+        <Font>Microsoft Sans Serif, 8.25pt</Font>
+        <NumberFont>Microsoft Sans Serif, 8.25pt</NumberFont>
+        <NumberOfDecimalsDisplay>0</NumberOfDecimalsDisplay>
+        <Orientation>Horizontal</Orientation>
+        <DisplayName>Long Trim Bank 2</DisplayName>
+        <BorderWidth>6</BorderWidth>
+      </IDashboardItem>
+    </DashboardControl>
+    <DashboardControl>
+      <IDashboardItem type="CustomLinearGauge" x="33" y="339" width="202" height="89">
+        <PID>8</PID>
+        <Min>-15</Min>
+        <Max>15</Max>
+        <NumberOfMajorTicks>7</NumberOfMajorTicks>
+        <NumberOfMinorTicks>4</NumberOfMinorTicks>
+        <Font>Microsoft Sans Serif, 8.25pt</Font>
+        <NumberFont>Microsoft Sans Serif, 8.25pt</NumberFont>
+        <NumberOfDecimalsDisplay>0</NumberOfDecimalsDisplay>
+        <Orientation>Horizontal</Orientation>
+        <DisplayName>Short Trim Bank 2</DisplayName>
+        <BorderWidth>6</BorderWidth>
+      </IDashboardItem>
+    </DashboardControl>
+    <DashboardControl>
+      <IDashboardItem type="CustomGauge" x="269" y="-3" width="264" height="232">
+        <PID>13</PID>
+        <Min>0</Min>
+        <Max>120</Max>
+        <RedLineStartValue>0</RedLineStartValue>
+        <DigitalDisplayMultiplier>1</DigitalDisplayMultiplier>
+        <NumberOfDecimalsDisplay>0</NumberOfDecimalsDisplay>
+        <NumberOfTicks>12</NumberOfTicks>
+        <NumberOfMinorTicks>3</NumberOfMinorTicks>
+        <Font>Calibri, 14pt, style=Bold</Font>
+        <NumberFont>Calibri, 12pt</NumberFont>
+        <StartAngle>120</StartAngle>
+        <SweepAngle>300</SweepAngle>
+        <Label />
+        <BorderWidth>10</BorderWidth>
+        <TickLength>10</TickLength>
+        <BackgroundImage>
+          <Image layout="Stretch" format="FilePath" filePath="" />
+        </BackgroundImage>
+        <ShowTicks>True</ShowTicks>
+        <ShowValue>True</ShowValue>
+        <ShowUnits>True</ShowUnits>
+      </IDashboardItem>
+    </DashboardControl>
+  </Foreground>
+</Dashboard>

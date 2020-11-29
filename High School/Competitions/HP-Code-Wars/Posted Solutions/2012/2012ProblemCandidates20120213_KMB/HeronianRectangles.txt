@@ -1,0 +1,5 @@
+this was a quickie problem, the biggest challenge of which is to know how
+to test for a number being a square. Simple looping over the range and
+testing for squares gets the heronian triangle, then you just need to test
+the possible divisors and perimeters.
+

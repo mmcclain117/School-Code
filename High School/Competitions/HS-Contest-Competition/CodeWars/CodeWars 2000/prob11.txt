@@ -1,0 +1,9 @@
+Dogs chase cats. 
+Dogs like kids. 
+Fido is a dog. 
+Fluffles is a cat. 
+Lydia is a kid. 
+Does Fido chase Fluffles? 
+Does Fluffles chase Fido? 
+Does Fido like Lydia? 
+#

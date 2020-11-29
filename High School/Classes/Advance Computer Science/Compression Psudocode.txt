@@ -1,0 +1,16 @@
+Compress
+Count frequency
+Construct tree
+	Gets the least ones.
+	makes them leaves
+	Makes a parent of those
+	Repeat till done
+Assign based on
+	Left is Zero
+	Right is one
+Replace
+Write
+
+Decompress
+Rebuild the tree
+Set amount of bit length (1's for size 0 following)

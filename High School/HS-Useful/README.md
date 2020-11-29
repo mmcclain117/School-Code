@@ -1,0 +1,32 @@
+# HS-Useful
+The most useful algorithms in high school
+- Animate
+- BarGraph
+- Big Integer Example
+- BinarySearch
+- Bubble Sort
+- Candy (BigInteger LCM)
+- Coins
+- Euclid
+- Factorial
+- fibonacci
+- FloodFill
+- FolderMake
+- Greek
+- HTML
+- ImageFlooding
+- Insertion Sort
+- LCM
+- Line
+- Longest Substring
+- Longest Repeating Substring
+- Math Project
+- Permutations
+- Prim
+- Primes
+- PrimesAndDivisors
+- SacredGeo
+- Selection Sort
+- Shell Sort
+- SuffixArray
+- Writen

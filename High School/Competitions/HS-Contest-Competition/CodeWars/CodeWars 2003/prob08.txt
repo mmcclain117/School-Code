@@ -1,0 +1,8 @@
+TARGET_BITRATE=MP3-256
+Duran Duran, Rio, 45:44, CD
+Flock of Seagulls, One Hit Wonder, 39:10, CD
+Orbital, Orbital 2, 54:33, MP3-192
+Beethoven, 9th Symphony, 73:52, CD
+Britney Spears, Blah Blah Blah, 33:33, 128
+Metallica, Please Give Us Money, 46:58, MP3-256
+The Barking Dogs, A Barking Dog Christmas, 68:04, CD

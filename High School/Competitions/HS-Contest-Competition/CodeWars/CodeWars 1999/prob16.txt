@@ -1,0 +1,26 @@
+LINES: 3 
+TIME=0 
+NAME=Bill 
+ITEM=Double Pounder;COUNT=1 
+ITEM=Big Mic;COUNT=2 
+ITEM=French Fries;COUNT=3 
+ITEM=Soda;COUNT=2 
+NAME=Vaneesha 
+ITEM=Salad;COUNT=1 
+ITEM=Soda;COUNT=1 
+TIME=2 
+NAME=Kathleen 
+ITEM=Double Pounder;COUNT=1 
+ITEM=French Fries;COUNT=1 
+ITEM=Nuglets;COUNT=1 
+ITEM=French Fries;COUNT=1 
+ITEM=Soda;COUNT=2 
+TIME=3 
+NAME=Piotr 
+ITEM=McChow;COUNT=3 
+ITEM=Tea;COUNT=2 
+ITEM=Soda;COUNT=1 
+TIME=7 
+NAME=Hyung 
+ITEM=McChitterlings;COUNT=1 
+ITEM=Soda;COUNT=1 

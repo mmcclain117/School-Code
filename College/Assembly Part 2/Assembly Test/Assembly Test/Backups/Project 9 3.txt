@@ -1,0 +1,120 @@
+#include<iostream>
+
+using namespace std;
+
+int main() {
+	int member[] = { 5,8,6,3,4,1,0,9,2,7 };
+	int aSize = sizeof(member) / 4;
+	int sorted[] = { 5,8,6,3,4,1,0,9,2,7 };
+	int lp = 0; // lp Point
+	long lv; // Low Value
+	cout <<"SIZE: " << aSize << endl;
+	for (int i = 0; i < 9; i++) {
+		lv = sorted[i];
+		for (int j = i+1; j < 10; j++) {
+			if (sorted[j] < lv) {
+				lp = j;
+				lv = sorted[j];
+			}
+		}
+		int tmp = sorted[i];
+		sorted[i] = sorted[lp];
+		sorted[lp] = tmp;
+	}
+	lv = 10000;
+	lp = 0;
+	_asm {
+
+
+
+		BubbleSort PROC uses ECX
+		xor ecx, ecx
+		mov ecx, 15
+
+		OUTER_LOOP:
+		push ecx
+			xor ecx, ecx
+			mov ecx, 14
+			mov esi, OFFSET arr
+
+			COMPARE :
+		xor ebx, ebx
+			xor edx, edx
+			mov bl, byte ptr ds : [esi]
+			mov dl, byte ptr ds : [esi + 1]
+			cmp bl, dl
+			jg SWAP
+
+			CONTINUE :
+		add esi, 2
+			loop COMPARE
+
+			mov esi, OFFSET arr
+
+			pop ecx
+			loop OUTER_LOOP
+
+			jmp FINISHED
+
+			SWAP :
+		xchg bl, dl
+			mov byte ptr ds : [esi + 1], dl
+			mov byte ptr ds : [esi], bl
+			jmp CONTINUE
+
+			FINISHED :
+		ret
+			BubbleSort ENDP
+		xor eax, eax;
+		xor ebx, ebx;
+		xor esi, esi;
+		xor ecx, ecx;
+		xor edx, edx;
+		mov esi, member;
+		sub esi, 1;	
+		mov ecx, member;
+		sub ecx, 1;
+
+	L1:
+		cmp esi, 36;
+		jge END;
+		mov edi, esi;
+		add edi, 4;
+
+	L2:
+		cmp edi, 40;
+		jge END;	
+		mov eax, member[edi];
+//		mov lp, eax;
+		mov ebx, member[ecx];
+		cmp ebx, lv;
+		jle SWAP;
+		mov lp, ebx; // Value
+		mov lv, edi;// Point
+		jle SWAP;
+		add edi, 4;
+		add ecx, 4;
+		mov eax, member[edi];
+		cmp eax, lv;
+
+		jmp L2;
+	SWAP:
+		mov ebx, 
+//		cmp member[edi], lv;
+		mov lp, eax;
+		jmp L2;
+	END:
+		xor eax, eax;
+	}
+	for (int i = 0; i < aSize; i++) {
+		cout << member[i] << " ";
+	}
+	cout << endl;
+	for (int i = 0; i < aSize; i++) {
+		cout << sorted[i] << " ";
+	}
+	cout << endl;
+
+	system("PAUSE");
+	return 0;
+}

@@ -1,0 +1,6 @@
+two plus three
+five times four minus three
+twelve minus six
+four divided-by two times two
+three times four minus four divided-by two
+seven minus one plus twenty divided-by two times five

@@ -1,0 +1,107 @@
+# HS Java Projects
+# Computer Science 1
+- [All Files](Computer%20Science%201)
+# AP Computer Science
+- First Six Weeks
+	- [Chimp](AP%20Computer%20Science/First%20Six%20Weeks/Chimp)
+	- [Evil Hangman](AP%20Computer%20Science/First%20Six%20Weeks/Evil%20Hangman)
+	- [Factors](AP%20Computer%20Science/First%20Six%20Weeks/Factors)
+	- [Random](AP%20Computer%20Science/First%20Six%20Weeks/Random)
+	- [Statistics](AP%20Computer%20Science/First%20Six%20Weeks/Statistics)
+	- [Word Scramble](AP%20Computer%20Science/First%20Six%20Weeks/Word%20Scramble)
+- Second Six Weeks
+	- [Binary Search](AP%20Computer%20Science/Second%20Six%20Weeks/Binary%20Search)
+   	- [Scribble & Bouncing Ball](AP%20Computer%20Science/Second%20Six%20Weeks/Scribble%20%26%20Bouncing%20ball)
+	- [Tech Support](AP%20Computer%20Science/Second%20Six%20Weeks/Tech%20Support)
+- Third Six Weeks
+	- [Binary Search Continued](AP%20Computer%20Science/Third%20six%20weeks/Binary%20Search%20Continued)
+	- [Bishop Problem Solution](AP%20Computer%20Science/Third%20six%20weeks/Bishop%20Project/Bishop)
+	- [Map Generator](AP%20Computer%20Science/Third%20six%20weeks/Map%20Generator)
+	- [Zuul](AP%20Computer%20Science/Third%20six%20weeks/Zuul%20Project)
+- Fourth Six Weeks
+	- [Map Generator Continued](AP%20Computer%20Science/Fourth%20Six%20Weeks/Map%20Generator%20Continued)
+	- [President Program](AP%20Computer%20Science/Fourth%20Six%20Weeks/President%20Project)
+	- [Sorting](AP%20Computer%20Science/Fourth%20Six%20Weeks/Sorting)
+		- Bubble
+		- Selection
+		- Insertion
+		- Quick
+		- Merge Sort
+- Fifth Six Weeks
+	- [Grid World](AP%20Computer%20Science/Fifth%20Six%20Weeks)
+- Sixth Six Weeks
+	- [Video Game Project](AP%20Computer%20Science/Sixth%20Six%20Weeks/Video%20Game%20Project)
+		- Chess
+		- Generate Maze
+# Advance Computer Science
+- First Six Weeks
+	- [RPN (Reverse Polish Notation)](Advance%20Computer%20Science/1st%20Six%20Weeks/RPN)
+	- [Guitar Hero](Advance%20Computer%20Science/1st%20Six%20Weeks/Guitar%20Hero)
+- Second Six Weeks
+	- [Word Ladder](Advance%20Computer%20Science/2nd%20Six%20Weeks/Word%20Ladder)
+	- [IMDb](Advance%20Computer%20Science/2nd%20Six%20Weeks/IMDb%20Done)
+   	- [Who Are You (Other Part in HGIYH)](Advance%20Computer%20Science/2nd%20Six%20Weeks/Who%20Are%20You)
+   	- [Squeezebox](Advance%20Computer%20Science/2nd%20Six%20Weeks/Squeezebox)
+- Third Six Weeks
+   	- [Binary Tree](Advance%20Computer%20Science/3rd%20Six%20Weeks/BinaryTree)
+   		- Rake em Up
+		- Right Tree
+   	- [Extra](Advance%20Computer%20Science/3rd%20Six%20Weeks/Extra)
+   		- Binary Search Tree
+		- Binary Tree
+   	- [How Good is Your Hash](Advance%20Computer%20Science/3rd%20Six%20Weeks/How%20Good%20is%20Your%20Hash)
+  	 	- Hash Tables (Linear, Quadratic, Random, Linkedlist)
+		- Who Are You
+   	- [Open Source](Advance%20Computer%20Science/3rd%20Six%20Weeks/Open%20Source)
+   	- [Plant a Tree](Advance%20Computer%20Science/3rd%20Six%20Weeks/Plant%20a%20Tree)
+- Fourth Six Weeks
+	- [Binary Heap](Advance%20Computer%20Science/4th%20Six%20Weeks/Binary%20Heap)
+   		- Math Cost Bucks
+		- The Other Read Meat
+   	- [Compression](Advance%20Computer%20Science/4th%20Six%20Weeks/Compression)
+   		- Huffman Compression
+   	- [Other Compression](Advance%20Computer%20Science/4th%20Six%20Weeks/Other%20Compression)
+  	 	- Huffman Coding
+   	- [Pretty Print](Advance%20Computer%20Science/4th%20Six%20Weeks/Pretty%20Print)
+  	 	- BST
+- Fifth Six Weeks
+  	- [Brute Force Contest](Advance%20Computer%20Science/5th%20Six%20Weeks/BruteForce)
+   	- [District 2](Advance%20Computer%20Science/5th%20Six%20Weeks/District%202)
+   		- Dijkstra
+- Sixth Six Weeks
+	- Prims
+- Don't Know When
+	- [DP](Advance%20Computer%20Science/Don't%20Know/DP)
+		- Bottles
+	- [Graphing Theory](Advance%20Computer%20Science/Don't%20Know/Graphing%20Theory)
+		- Lab Rats
+		- Pavers
+	- [HGIYH](Advance%20Computer%20Science/Don't%20Know/HGIYH)
+	- [Scooby](Advance%20Computer%20Science/Don't%20Know/Scooby)
+		- ChildPlay
+		- Scooby
+
+# HTML Files
+- Review quizes over UIL Topics
+	- Output
+	- Data types and operators
+	- Base and Limits
+	- Boolean
+	- Strings and Scanners
+	- Printf
+	- Regex
+	- Strings and Split
+	- Arrays and Lists
+	- Generic Collections
+	- Recursions
+	- Sorts and Searches
+	- Inheritance
+	- Bitwise
+	- Sets and Maps
+	- Stacks and Queues
+	- Exceptions
+	- Hashtables
+	- Trees and Graphs
+	- Heaps and Priority queues
+	- Digital electronics
+	- Boolean Algebra

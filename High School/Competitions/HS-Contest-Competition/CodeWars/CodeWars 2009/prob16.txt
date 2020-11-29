@@ -1,0 +1,18 @@
+[Skills]
+Ambidexterity
+Disarm: Parry
+DualWield: Ambidexterity, Precision
+Feint
+Focus
+InnerBeast: Intimidation
+Intimidation
+Parry
+Precision: Focus
+SpringAttack
+Riposte: Focus, Feint
+WeaponMaster: Intimidation, Precision
+Whirlwind: Precision, SpringAttack
+[Goals]
+Fred: DualWield, WeaponMaster
+LadyEmerald: Whirlwind, Riposte, InnerBeast
+[End]

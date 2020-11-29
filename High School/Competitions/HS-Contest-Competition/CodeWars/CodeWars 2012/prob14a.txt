@@ -1,0 +1,2 @@
+6 SET 2 2 SUB 2 2 MUL 2 * COS 1 1 ADD 2 * DIV 2 2
+( SET T0 ( SUB X1 ( MUL 2 ( COS ( ADD ( MUL 3 THETA ) 1 ) ) ) ( DIV X1 3 ) ) )

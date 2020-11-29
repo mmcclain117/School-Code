@@ -1,0 +1,18 @@
+- Problem 1: [Printing](src/Prob01.java)
+- Problem 2: [String Replacement](src/Prob02.java)
+- Problem 3: [Palindrome](src/Prob03.java)
+- Problem 4: [Primes](src/Prob04.java)
+- Problem 5: [Random Numbers](src/Prob05.java)
+- Problem 6: [Finding Area](src/Prob06.java)
+- Problem 7: [Map Bank Accounts](src/Prob07.java)
+- Problem 8: [Route Finding](src/Prob08.java)
+- Problem 9: [Stacks](src/Prob09.java)
+- Problem 10: [Word Sorter](src/Prob10.java)
+- Problem 11: [Queue](src/Prob11.java)
+- Problem 12: Magic Square
+- Problem 13: BigInteger Math
+- Problem 14: [Equasion Solving](src/Prob14.java)
+- Problem 15: [Path Finding](src/Prob15.java)
+- Problem 16: Timing
+- Problem 17: Geography Math
+- Problem 18: [Music Playing](src/Prob18.java)

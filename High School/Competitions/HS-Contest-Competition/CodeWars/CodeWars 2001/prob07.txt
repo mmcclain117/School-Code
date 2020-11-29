@@ -1,0 +1,10 @@
+5 6 2
+LASTNAME, FIRSTNAME, TITLE, DEPARTMENT, SALARY
+Carter, Steve, Admin. Assistant, Facilities, 2700
+Lin, Kyle, Manager, North America Sales, 4200
+Gonzales, Maria, Engineer, Manufacturing Support, 4100
+Anderson, Greg, Maintenance Technician, Facilities, 2950
+Carter, Linda, Heroine, Customer Relations, 6500
+Mudhi, Tariq, Sales Specialist, North America Sales, 3200
+LASTNAME = Carter
+DEPARTMENT = Manufacturing Support

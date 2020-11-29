@@ -1,0 +1,4 @@
+﻿  Assembling arrayaverage.asm...
+arrayaverage.asm(29): error A2006: undefined symbol : efx
+arrayaverage.asm(30): error A2006: undefined symbol : efx
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\BuildCustomizations\masm.targets(69,5): error MSB3721: The command "ml.exe /c /nologo /Sg /Zi /Fo"Debug\arrayaverage.obj" /Fl"Project.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /Taarrayaverage.asm" exited with code 1.

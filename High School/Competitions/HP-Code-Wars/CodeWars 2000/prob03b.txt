@@ -1,0 +1,6 @@
+This is file b
+This is line 2 of file b
+There isn't much to it
+this just merges
+instead of output file i 
+output straight to the console

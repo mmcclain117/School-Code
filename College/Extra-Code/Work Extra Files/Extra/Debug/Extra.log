@@ -1,0 +1,12 @@
+﻿  KP2.cpp
+C:\Users\MasterWard\source\repos\Extra\Extra\KP2.cpp(32,9): warning C4101: 'taxableInterest': unreferenced local variable
+C:\Users\MasterWard\source\repos\Extra\Extra\KP2.cpp(31,9): warning C4101: 'taxableIncome': unreferenced local variable
+C:\Users\MasterWard\source\repos\Extra\Extra\KP2.cpp(23,9): warning C4101: 'adjustments': unreferenced local variable
+C:\Users\MasterWard\source\repos\Extra\Extra\KP2.cpp(18,9): warning C4101: 'wages': unreferenced local variable
+C:\Users\MasterWard\source\repos\Extra\Extra\KP2.cpp(33,9): warning C4101: 'qualifedDividents': unreferenced local variable
+C:\Users\MasterWard\source\repos\Extra\Extra\KP2.cpp(21,9): warning C4101: 'totalIncome': unreferenced local variable
+C:\Users\MasterWard\source\repos\Extra\Extra\KP2.cpp(34,9): warning C4101: 'capitalGain': unreferenced local variable
+C:\Users\MasterWard\source\repos\Extra\Extra\KP2.cpp(29,9): warning C4101: 'adjustGross': unreferenced local variable
+C:\Users\MasterWard\source\repos\Extra\Extra\KP2.cpp(20,9): warning C4101: 'taxableAmount1': unreferenced local variable
+C:\Users\MasterWard\source\repos\Extra\Extra\KP2.cpp(19,9): warning C4101: 'ordinaryDividents': unreferenced local variable
+  Extra.vcxproj -> C:\Users\MasterWard\source\repos\Extra\Debug\Extra.exe

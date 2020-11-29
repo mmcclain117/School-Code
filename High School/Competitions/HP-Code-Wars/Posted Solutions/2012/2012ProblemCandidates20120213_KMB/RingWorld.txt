@@ -1,0 +1,2 @@
+Another super quickie, the only thing that slowed me down was remembering how to use scanf() with a
+double.

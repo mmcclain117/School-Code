@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(937,5): warning MSB8027: Two or more files with the name of SpreadsheetCellTest.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are AddFirstAttempt\SpreadsheetCellTest.cpp, SpreadsheetCellTest.cpp.
+  SpreadsheetCellTest.cpp
+  SpreadsheetCellTest.cpp
+  Generating Code...
+Debug\SpreadsheetCellTest.obj : warning LNK4042: object specified more than once; extras ignored
+SpreadsheetCellTest.obj : error LNK2019: unresolved external symbol "public: __thiscall SpreadsheetCell::SpreadsheetCell(double)" (??0SpreadsheetCell@@QAE@N@Z) referenced in function _main
+SpreadsheetCellTest.obj : error LNK2019: unresolved external symbol "public: class SpreadsheetCell & __thiscall SpreadsheetCell::operator=(class SpreadsheetCell const &)" (??4SpreadsheetCell@@QAEAAV0@ABV0@@Z) referenced in function _main
+SpreadsheetCellTest.obj : error LNK2019: unresolved external symbol "class SpreadsheetCell const __cdecl operator+(class SpreadsheetCell const &,class SpreadsheetCell const &)" (??H@YA?BVSpreadsheetCell@@ABV0@0@Z) referenced in function _main
+SpreadsheetCellTest.obj : error LNK2019: unresolved external symbol "class SpreadsheetCell const __cdecl operator-(class SpreadsheetCell const &,class SpreadsheetCell const &)" (??G@YA?BVSpreadsheetCell@@ABV0@0@Z) referenced in function _main
+SpreadsheetCellTest.obj : error LNK2019: unresolved external symbol "class SpreadsheetCell const __cdecl operator*(class SpreadsheetCell const &,class SpreadsheetCell const &)" (??D@YA?BVSpreadsheetCell@@ABV0@0@Z) referenced in function _main
+SpreadsheetCellTest.obj : error LNK2019: unresolved external symbol "class SpreadsheetCell const __cdecl operator/(class SpreadsheetCell const &,class SpreadsheetCell const &)" (??K@YA?BVSpreadsheetCell@@ABV0@0@Z) referenced in function _main
+SpreadsheetCellTest.obj : error LNK2019: unresolved external symbol "public: class SpreadsheetCell & __thiscall SpreadsheetCell::operator+=(class SpreadsheetCell const &)" (??YSpreadsheetCell@@QAEAAV0@ABV0@@Z) referenced in function __catch$_main$0
+SpreadsheetCellTest.obj : error LNK2019: unresolved external symbol "public: class SpreadsheetCell & __thiscall SpreadsheetCell::operator-=(class SpreadsheetCell const &)" (??ZSpreadsheetCell@@QAEAAV0@ABV0@@Z) referenced in function __catch$_main$0
+SpreadsheetCellTest.obj : error LNK2019: unresolved external symbol "public: class SpreadsheetCell & __thiscall SpreadsheetCell::operator*=(class SpreadsheetCell const &)" (??XSpreadsheetCell@@QAEAAV0@ABV0@@Z) referenced in function __catch$_main$0
+SpreadsheetCellTest.obj : error LNK2019: unresolved external symbol "public: class SpreadsheetCell & __thiscall SpreadsheetCell::operator/=(class SpreadsheetCell const &)" (??_0SpreadsheetCell@@QAEAAV0@ABV0@@Z) referenced in function __catch$_main$0
+SpreadsheetCellTest.obj : error LNK2019: unresolved external symbol "bool __cdecl operator==(class SpreadsheetCell const &,class SpreadsheetCell const &)" (??8@YA_NABVSpreadsheetCell@@0@Z) referenced in function __catch$_main$0
+SpreadsheetCellTest.obj : error LNK2019: unresolved external symbol "bool __cdecl operator<(class SpreadsheetCell const &,class SpreadsheetCell const &)" (??M@YA_NABVSpreadsheetCell@@0@Z) referenced in function __catch$_main$0
+SpreadsheetCellTest.obj : error LNK2019: unresolved external symbol "bool __cdecl operator>(class SpreadsheetCell const &,class SpreadsheetCell const &)" (??O@YA_NABVSpreadsheetCell@@0@Z) referenced in function __catch$_main$0
+C:\Users\maste\Dropbox\Coding Projects\Git\Cplus Book Code\Cplus-Book-Code\Professional C++\Chapter 7\OperatorOverloading\Debug\OperatorOverloading.exe : fatal error LNK1120: 13 unresolved externals

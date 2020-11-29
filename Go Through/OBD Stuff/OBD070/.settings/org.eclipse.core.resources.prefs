@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//build/lib/obd/__init__.py=utf-8
+encoding//obd/OBDCommand.py=utf-8
+encoding//obd/OBDResponse.py=utf-8
+encoding//obd/__init__.py=utf-8
+encoding//obd/asynchronous.py=utf-8
+encoding//obd/commands.py=utf-8
+encoding//obd/obd.py=utf-8
+encoding//obd/protocols/__init__.py=utf-8
+encoding//obd/protocols/protocol.py=utf-8
+encoding//obd/protocols/protocol_can.py=utf-8
+encoding//obd/utils.py=utf-8
+encoding/setup.py=utf-8

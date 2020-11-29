@@ -1,0 +1,6 @@
+.486
+.MODEL FLAT
+.CODE
+START:
+   ret
+END START

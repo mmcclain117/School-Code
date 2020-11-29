@@ -1,0 +1,393 @@
+1999
+- Problem 1: Printing
+- Problem 2: String Replacement
+- Problem 3: Palindrome
+- Problem 4: Primes
+- Problem 5: Random Numbers
+- Problem 6: Finding Area
+- Problem 7: Map Bank Accounts
+- Problem 8: Route Finding
+- Problem 9: Stacks 
+- Problem 10: Word Sorter
+- Problem 11: Queue
+- Problem 12: Magic Square (DOESNT WORK)
+- Problem 13: BigInteger Math (DOESN't Work)
+- Problem 14: Equasion Solving
+- Problem 15: Path Finding
+- Problem 16: Timing (NOT POSSIBLE)
+- Problem 17: Geography Math (NO FILE)
+- Problem 18: Music Playing
+
+2000
+- Problem 1: Printing
+- Problem 2: Area Math
+- Problem 3: File Combiner
+- Problem 4: Frequency Histogram
+- Problem 5: Printing Format
+- Problem 6: Easy Search (No Algorithm)
+- Problem 7: Pig Latin
+- Problem 8: Interest Math (NOT DONE)
+- Problem 9: Grammer Checker (DOnt have file)
+- Problem 10: Stack Calculator
+- Problem 11: Simple AI/Object Linking (DOESN'T WORK)
+- Problem 12: 2d Array Pattern Searching
+- Problem 13: Pathfinding with Nodes
+- Problem 14: 4 Word CROSSWORD (NOT DONE)
+- Problem 15: Chess (NOT DONE)
+
+2001
+- Problem 1: Printing
+- Problem 2: String Replacement
+- Problem 3: Printing Calendar
+- Problem 4: Anagram
+- Problem 5: String Formating
+- Problem 6: Physics Math
+- Problem 7: Easy Search (No Algorithm)
+- Problem 8: Encryption Algorithm (NOT DONE)
+- Problem 9: Combinatorics (NO File)
+- Problem 10: Grid Moving
+- Problem 11: Task Time Management (Easy)
+- Problem 12: Math
+- Problem 13: Shortest Substring (This is insanity)
+- Problem 14: Optimum Outcome (Change Name) (WANT TO DO)
+- Problem 15: Magic Star Numbers (Not doing)
+
+2002
+- Problem 1: Printing
+- Problem 2: Math
+- Problem 3: Reversing String
+- Problem 4: Guessing Hangman
+- Problem 5: Word Counter
+- Problem 6: Order Processor (Easy)
+- Problem 7: String Matching
+- Problem 8: Math (Getting Average)
+- Problem 9: Histogram
+- Problem 10: Math (Distance Calculator)
+- Problem 11: Equasion Solver (Words)
+- Problem 12: Event Processing
+- Problem 13: Order Processor (NOT DONE)
+- Problem 14: Map Navigation (WiFi Area)
+- Problem 15: Math (Advanced Moving Math)
+
+2003
+- Problem 1: Printing
+- Problem 2: Interest Math
+- Problem 3: Calendar (Not working)
+- Problem 4: String Replacement
+- Problem 5: Histogram
+- Problem 6: Checksum
+- Problem 7: Music Scales
+- Problem 8: Order Processor
+- Problem 9: Bowling Score Calculator
+- Problem 10: Pathfinding (NEED TO DO)
+- Problem 11: Calendar (NOT DOING)
+- Problem 12: RPN Calculator
+- Problem 13: Magic Square
+- Problem 14: Operation Processor
+- Problem 15: Crossword (Completer)
+
+2004
+- Problem 1: Printing
+- Problem 2: Leap Year
+- Problem 3: Math
+- Problem 4: Time (Clock Format)
+- Problem 5: Order Processing
+- Problem 6: Math (Median)
+- Problem 7: Poker (NEED TO DO)
+- Problem 8: String Search
+- Problem 9: Input Formatting
+- Problem 10: Combinatorics (NOT ATTEMPTED)
+- Problem 11: Order Processing
+- Problem 12: Moving Rover
+- Problem 13: Grid Word Search
+- Problem 14: Bracket Processing (NEED TO FIX)
+- Problem 15: Process Chess Game (NEED TO DO)
+
+2005
+- Problem 1: Printing
+- Problem 2: Temperature Converter
+- Problem 3: Math (Adding Factors)
+- Problem 4: Roman Numerals
+- Problem 5: Keypad Processor
+- Problem 6: String ReWriting (Don't Know how it works)
+- Problem 7: Math (OFF A LITTLE NOT DONE NEED TO FIX)
+- Problem 8: Queue (Elevator)
+- Problem 9: String ReWriting Part 2 (NOT Attempting)
+- Problem 10: Grid Movements (PacMan)
+- Problem 11: Poker (NEED TO DO)
+- Problem 12: Equasion Calculator
+
+2006
+- Problem 0: Printing
+- Problem 1: Printing
+- Problem 2: Math
+- Problem 3: Math (Area)
+- Problem 4: - Problemability (Benford's Law)
+- Problem 5: Application Processor
+- Problem 6: Roman Numeral Calculator
+- Problem 7: Sudoku Checker
+- Problem 8: Sets
+- Problem 9: Random Sort
+- Problem 10: Scheduling (DOESNT WORK)
+- Problem 11: Permutation (Different Ways for Change)
+- Problem 12: Mayan Calendar
+- Problem 13: Puzzle Building (Tumbled Tiles) (NOT ATTEMPTED
+
+2007
+- Problem 1: Math
+- Problem 2: Printing
+- Problem 3: Factorial/Combinations
+- Problem 4: Strings
+- Problem 5: Math
+- Problem 6: Primes
+- Problem 7: Math
+- Problem 8: Printing Grid (Number Spiral)
+- Problem 9: Music (NEED TO DO)
+- Problem 10: New Math (Hard) (NOT DOING)
+- Problem 11: String Matching (LED)
+- Problem 12: List
+- Problem 13: Grid Reading (Numbers)
+- Problem 14: Chess (HAVEN'T DONE)
+
+2008
+- Problem 1: Palindrome
+- Problem 2: Math
+- Problem 3: Printing
+- Problem 4: Strings
+- Problem 5: Histogram
+- Problem 6: Strings
+- Problem 7: Strings
+- Problem 8: String Matching
+- Problem 9: Grid Reading
+- Problem 10: Math (MAY WANT TO DO)
+- Problem 11: Grid Moving (FloodFill)
+- Problem 12: Grid Moving (FloodFill)
+- Problem 13: Math (- Problemability)
+- Problem 14: Object Linking (NEED TO DO)
+- Problem 15: LOOK AT AGAIN TO NAME THIS
+- Problem 16: Visual Graphing
+
+2009
+- Problem 1: Math
+- Problem 2: Math
+- Problem 3: Printing
+- Problem 4: Math (Easy Calculator)
+- Problem 5: Calendar (Doesn't Work)
+- Problem 6: Math
+- Problem 7: Math (Ponzi Calculator)
+- Problem 8: Classes
+- Problem 9: Number Palindromes
+- Problem 10: Tree String Matching (Huffman)	
+- Problem 11: Math
+- Problem 12: Histogram
+- Problem 13: Networking (Doesn't have the routing table file)
+- Problem 14: Anagram
+- Problem 15: Strings
+- Problem 16: Linked Objects (May Try) (NOT DONE)
+- Problem 17: Binary and Boolean Operators (NOT TRYING)
+- Problem 18: Pathfinder (NEED TO TRY)
+- Problem 19: String Parsing (HARD WANT TO TRY)
+- Problem 20: Three-Letter Crossword
+
+2010
+- Problem 1: Math
+- Problem 2: Math
+- Problem 3: Math
+- Problem 4: Math
+- Problem 5: Greek Numeral
+- Problem 6: Histogram
+- Problem 7: Grid Processing (Minesweeper)
+- Problem 8: Object Linking
+- Problem 9: Grid (Scrabble)
+- Problem 10: List
+- Problem 11: Math
+- Problem 12: String Replacement
+- Problem 13: Combinatorics (Tetris)
+- Problem 14: Graph and Pathfinding
+- Problem 15: Everything
+- Problem 16: Grid (Ken-igma) (Not Doing)
+
+2011
+- Problem 1: Printing
+- Problem 2: Math
+- Problem 3: Printing
+- Problem 4: Palindrome
+- Problem 5: Printing
+- Problem 6: Grid (NOT DOING)
+- Problem 7: Sort
+- Problem 8: Grid (NOT DOING)
+- Problem 9: Strings
+- Problem 10: Math (Fractions) NOT DOING
+- Problem 11: IDK
+- Problem 12: Math
+- Problem 13: IDK (NOT DOING)
+- Problem 14: String Replacement
+- Problem 15: String Replacement (List)
+- Problem 16: Math
+- Problem 17: Node Graph Maze
+- Problem 18: Calculator (Game) (NOT DOING)
+
+2012
+- Problem 1: Printing
+- Problem 2: Math
+- Problem 3: Grid (NOT DONE)
+- Problem 4: String Replacement
+- Problem 5: Optimize packaging (Peppers) (NOT DONE)
+- Problem 6: Math (Heronian Formula)
+- Problem 7: Histogram (Ascii Skyline) (NOT DONE)
+- Problem 8: Histogram (Letters)
+- Problem 9: String Cipher
+- Problem 10: Card Set
+- Problem 11: Grid
+- Problem 12: Math (NOT DOING)
+- Problem 13: Math (NOT SURE)
+- Problem 14: Strings (NOT DOING)
+- Problem 15: Queue/Strings
+- Problem 16: READING (NEED TO MODIFY CODE) I THINK PATH FINDING
+- Problem 17: Pathfinding (NEED TO MODIFY CODE)
+- Problem 18: Pathfinding (Portals) (NOT DOING)
+- Problem 19: QR Code (NEED TO MODIFY)
+
+2013
+- Problem 1: Printing
+- Problem 2: Printing
+- Problem 3: Math
+- Problem 4: Math
+- Problem 5: Tribonacci
+- Problem 6: Math (Area)
+- Problem 7: Math
+- Problem 8: Strings
+- Problem 9: String Counting
+- Problem 10: Math
+- Problem 11: String Replacement
+- Problem 12: Palindrome (Morse Code)
+- Problem 13: Grid Reading (Banner Reading) (NOT DOING)
+- Problem 14: Math (NOT DONE)
+- Problem 15: Stacking (NEED TO DO)
+- Problem 16: Tree (NOT DONE)
+- Problem 17: Strings
+- Problem 18: String Search (NOT DONE)
+- Problem 19: Grid (MAY DO) (NOT DONE)
+- Problem 20: Grid Stacking (NOT DOING)
+- Problem 21: Strings (LOOK AT) (MAY DO) (NOT DONE)
+
+2014
+- Problem 1: Math
+- Problem 2: Math
+- Problem 3: Math
+- Problem 4: Math
+- Problem 5: Pangram
+- Problem 6: Strings
+- Problem 7: Greek Numerals (NOT DOING) (MAYBE)
+- Problem 8: Strings
+- Problem 9: Prime Math
+- Problem 10: Strings (Cipher) (NOT DOING)
+- Problem 11: Math (Chinese Remainder Theorm)
+- Problem 12: Grid Strings Reading (NOT DOING)
+- Problem 13: Combinatorics (NEED TO ATTEMPT) (NOT DONE)
+- Problem 14: GO OVER (NEED TO DO)
+- Problem 15: Grid (Fruit Math) (NEED TO ATTEMPT)
+- Problem 16: Grid String Search (NOT DONE)
+- Problem 17: Tree (NOT DONE)
+- Problem 18: Path Walking (NOT DOING)
+- Problem 19: Strings/Grid Creation (NOT DOING)
+- Problem 20: Grid Math (NOT DONE)
+- Problem 21: Floor Solution
+
+2015
+- Problem 1: Printing
+- Problem 2: Math
+- Problem 3: Printing
+- Problem 4: Math
+- Problem 5: Brute Force
+- Problem 6: Math
+- Problem 7: Math (Kepler's Law)
+- Problem 8: List
+- Problem 9: Frequency Counter (Numbers)
+- Problem 10: Brute Force
+- Problem 11: Printing
+- Problem 12: Math
+- Problem 13: String Counting
+- Problem 14: Shape Fitting (NOT DOING)
+- Problem 15: Acronym
+- Problem 16: Graphing/Pathfinding
+- Problem 17: Grid Printing
+- Problem 18: Maze/Pathfinding
+- Problem 19: Grid matching (Battleship)
+- Problem 20: String Manipulation (NOT DOING)
+
+2016
+- Problem 1: Printing
+- Problem 2: Printing
+- Problem 3: Printing
+- Problem 4: Math
+- Problem 5: Strings
+- Problem 6: Math 
+- Problem 7: Strings
+- Problem 8: Printing
+- Problem 9: Math
+- Problem 10: Grid (Tic-Tac-Toe)
+- Problem 11: Math
+- Problem 12: Grid (Spiral Reading)
+- Problem 13: Math
+- Problem 14: Strings (Cipher) (NOT DOING)
+- Problem 15: 3D Grid (Cube Rotation)
+- Problem 16: Math (NOT DOING)
+- Problem 17: Grid (Might Do) (NOT DONE)
+- Problem 18: Hexagon Path Finding (NOT DONE)
+- Problem 19: Object Linking (NOT DONE)
+- Problem 20: Enigma Machine
+- Problem 21: Math (Astro Navigation)
+
+2017
+- Problem 0: Printing
+- Problem 1: Printing
+- Problem 2: Printing
+- Problem 3: Math
+- Problem 4: Math
+- Problem 5: Math
+- Problem 6: Math
+- Problem 7: Math
+- Problem 8: String Counting (Not DOING)
+- Problem 9: Histogram (NOT DONE)
+- Problem 10: Palindrome
+- Problem 11: Strings
+- Problem 12: Math
+- Problem 13: Grid Printing (NOT DOING)
+- Problem 14: Pathfinder (NOT DONE)
+- Problem 15: - Problemabilities
+- Problem 16: Combinatorics
+- Problem 17: Roman Numerals (NOT DOING)
+- Problem 18: Game Process Operations
+- Problem 19: Math
+- Problem 20: Pathfinding
+- Problem 21: String Searching (NOT DONE)
+- Problem 22: Grid Printing (NOT DOING)
+- Problem 23: Multivariable - Problemlem (NOT DOING)
+- Problem 24: Hexagon Puzzle (NOT DONE)
+
+2018
+- Problem 0: Printing
+- Problem 1: Printing
+- Problem 2: Math
+- Problem 3: Prime
+- Problem 4: Math
+- Problem 5: Calendar (NOT DOING)
+- Problem 6: Strings
+- Problem 7: Math
+- Problem 8: String Length
+- Problem 9: String Counting
+- Problem 10: Math
+- Problem 11: List
+- Problem 12: Anagram
+- Problem 13: Grid (WIFI) (NOT DOING)
+- Problem 14: Math (NOT DONE)
+- Problem 15: Hexagon Word Search (NOT DONE)
+- Problem 16: Math (NOT DOING)
+- Problem 17: Process Operations (Queue)
+- Problem 18: Word Matching (NOT DONE)
+- Problem 19: PathMaking (Frog) (NOT DOING)
+- Problem 20: Math (NOT DONE)
+- Problem 21: Math (NOT DOING)
+- Problem 22: Cominatorics (NOT DONE)
+- Problem 23: Pathfinding (WILL ATTEMPT) (NOT DONE)

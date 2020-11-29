@@ -1,0 +1,6 @@
+HP ProLiant DL385,3600,1600
+3
+Microsoft IIS,250,500
+Payroll,2000,750
+Microsoft Exchange,1000,350
+

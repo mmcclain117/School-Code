@@ -1,0 +1,35 @@
+PROGRAM 11   REQUIREMENTS    RECORD STRUCTURES
+
+
+ 1) Define a Record Data Structure for student grade records
+    for data stored in file: "StudentData.txt" with additional
+    fields for average exam score and grade.
+
+ 2) Declare an array of records.
+
+ 3) Insert the text from the Data Structure file into the Code.
+
+ 4) Define a function to display student records (formatted).
+ 	
+ 5) Define a function to compute average and
+      populate average field.
+
+ 6) Define a function to compute the grade and
+      populate grade field.
+
+ 7) Define a function to compute class average.
+
+ 8) Define a function to compute class standard deviation.
+
+ 9) Display class average and standard deviation.
+
+10) Demonstrate ALL functions.
+GIVE A INPUT AND OUTPUT EXAMPLE
+
+
+REPORTING  FORMAT:
+Submit  your  answers as  one .txt  File (Notepad).
+Use Guidelines described in the Module on "PROGRAM TESTING and DOCUMENTATION"
+Program Documentation Format:   "Exercise & Assignment Documentation Format "
+Example Program Documentation: "Example Assignment Document "
+

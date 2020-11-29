@@ -1,0 +1,6 @@
+Airport Name: GEORGE BUSH INTCNTL HOUSTON 
+IATA: IAH 
+Location: HOUSTON, TX, UNITED STATES 
+Latitude: 29º 58' N 
+Longitude: 95º 20' W 
+Radius: 25 MILES

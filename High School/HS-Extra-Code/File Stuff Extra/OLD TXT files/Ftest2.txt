@@ -1,0 +1,1 @@
+This is the test document that will test if it can straight compare the files.

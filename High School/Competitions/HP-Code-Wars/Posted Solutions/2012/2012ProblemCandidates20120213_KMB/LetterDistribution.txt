@@ -1,0 +1,3 @@
+A five minute problem, but a good one. Almost made it harder than it
+had to be by sorting the results instead of "inefficient" looping from max length down to min in
+alpha order.

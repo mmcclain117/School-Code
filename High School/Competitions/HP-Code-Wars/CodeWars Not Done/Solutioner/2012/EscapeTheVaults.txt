@@ -1,0 +1,4 @@
+Good recursive solve problem. Took about an hour to code up and a half hour
+to debug.  I don't think there's a problem with the way that the multi-cell
+shapes are defined, but I wondered if there were corner cases with shapes
+that would enclosed, hollow polygons. 
